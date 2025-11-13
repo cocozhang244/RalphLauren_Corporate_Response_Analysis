@@ -1,0 +1,134 @@
+RALPH LAUREN ESG ANALYSIS - EXTRACTION SUMMARY
+================================================================================
+
+Extraction Date: 2025-11-13 13:20:25
+Total Files Processed: 22
+
+
+2020:
+----------------------------------------
+  • Global Citizenship & Sustainability Report
+    File: 2020_Global_Citizenship_Sustainability_Report_2.pdf
+    Pages: 54
+    Output: 2020_2020_Global_Citizenship_Sustainability_Report_2_extracted.txt
+
+  • 10-K Annual Report
+    File: Ralph Lauren 10K 2020.pdf
+    Pages: 401
+    Output: 2020_Ralph_Lauren_10K_2020_extracted.txt
+
+  • CDP Climate Change Disclosure
+    File: Ralph_Lauren_CDP_Climate_Change_2020.pdf
+    Pages: 38
+    Output: 2020_Ralph_Lauren_CDP_Climate_Change_2020_extracted.txt
+
+
+2021:
+----------------------------------------
+  • Global Citizenship & Sustainability Report
+    File: 2021_Global_Citizenship_&_Sustainability_Report.pdf
+    Pages: 64
+    Output: 2021_2021_Global_Citizenship_and_Sustainability_Report_extracted.txt
+
+  • CDP Climate Change Disclosure
+    File: CDP-ClimateChange2021-RLCorp.pdf
+    Pages: 43
+    Output: 2021_CDP-ClimateChange2021-RLCorp_extracted.txt
+
+  • 10-K Annual Report
+    File: Ralph Lauren 10K 2021.pdf
+    Pages: 154
+    Output: 2021_Ralph_Lauren_10K_2021_extracted.txt
+
+  • CDP Water Security Disclosure
+    File: Ralph Lauren Corporation_CDP-Water-Security-2021.pdf
+    Pages: 13
+    Output: 2021_Ralph_Lauren_Corporation_CDP-Water-Security-2021_extracted.txt
+
+
+2022:
+----------------------------------------
+  • Global Citizenship & Sustainability Report
+    File: 2022-RL-GCSReport.pdf
+    Pages: 96
+    Output: 2022_2022-RL-GCSReport_extracted.txt
+
+  • CDP Climate Change Disclosure
+    File: CDP-ClimateChange2022-RLCorp.pdf
+    Pages: 64
+    Output: 2022_CDP-ClimateChange2022-RLCorp_extracted.txt
+
+  • Carbon Footprint Verification/Assurance
+    File: RL_FY2022 Carbon Footprint Verification Statement.pdf
+    Pages: 4
+    Output: 2022_RL_FY2022_Carbon_Footprint_Verification_Statement_extracted.txt
+
+  • 10-K Annual Report
+    File: Ralph Lauren 10K 2022.pdf
+    Pages: 281
+    Output: 2022_Ralph_Lauren_10K_2022_extracted.txt
+
+  • CDP Water Security Disclosure
+    File: Ralph Lauren Corporation_CDP-Water-Security-2022.pdf
+    Pages: 24
+    Output: 2022_Ralph_Lauren_Corporation_CDP-Water-Security-2022_extracted.txt
+
+
+2023:
+----------------------------------------
+  • CDP Climate Change Disclosure
+    File: CDP-ClimateChange2023.pdf
+    Pages: 73
+    Output: 2023_CDP-ClimateChange2023_extracted.txt
+
+  • CDP Water Security Disclosure
+    File: CDP-WaterSecurity2023.pdf
+    Pages: 30
+    Output: 2023_CDP-WaterSecurity2023_extracted.txt
+
+  • Global Citizenship & Sustainability Report
+    File: RL-2023-GCSReport.pdf
+    Pages: 113
+    Output: 2023_RL-2023-GCSReport_extracted.txt
+
+  • Carbon Footprint Verification/Assurance
+    File: RL-FY23_CarbonFootprint VerificationStatement.pdf
+    Pages: 4
+    Output: 2023_RL-FY23_CarbonFootprint_VerificationStatement_extracted.txt
+
+  • 10-K Annual Report
+    File: Ralph Lauren 10K 2023.pdf
+    Pages: 147
+    Output: 2023_Ralph_Lauren_10K_2023_extracted.txt
+
+
+2024:
+----------------------------------------
+  • CDP Climate Change Disclosure
+    File: CDP2024-Climate-Water-Forest-Disclosure (1).pdf
+    Pages: 373
+    Output: 2024_CDP2024-Climate-Water-Forest-Disclosure_(1)_extracted.txt
+
+  • Carbon Footprint Verification/Assurance
+    File: Corporate Carbon Footprint Assurance Statement.pdf
+    Pages: 3
+    Output: 2024_Corporate_Carbon_Footprint_Assurance_Statement_extracted.txt
+
+  • Global Citizenship & Sustainability Report
+    File: RL-2024-GCSReport.pdf
+    Pages: 111
+    Output: 2024_RL-2024-GCSReport_extracted.txt
+
+  • 10-K Annual Report
+    File: Ralph Lauren 10K 2024.pdf
+    Pages: 221
+    Output: 2024_Ralph_Lauren_10K_2024_extracted.txt
+
+
+2025:
+----------------------------------------
+  • 10-K Annual Report
+    File: Ralph Lauren 10K 2025.pdf
+    Pages: 144
+    Output: 2025_Ralph_Lauren_10K_2025_extracted.txt
+

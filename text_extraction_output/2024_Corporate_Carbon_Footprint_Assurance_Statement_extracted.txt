@@ -1,0 +1,276 @@
+################################################################################
+RALPH LAUREN ESG ANALYSIS - EXTRACTED TEXT
+################################################################################
+Source File: Corporate Carbon Footprint Assurance Statement.pdf
+Year: 2024
+Document Type: Carbon Footprint Verification/Assurance
+Total Pages: 3
+Extraction Date: 2025-11-13 13:20:24
+################################################################################
+
+
+================================================================================
+[PAGE 1 OF 3]
+================================================================================
+This Statement is not valid without the full verification scope, objectives, criteria and conclusion 
+available on pages 2 to 3 of this Statement. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Greenhouse Gas Verification 
+Statement   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Reporting organisation: Ralph Lauren Corporation 
+650 Madison Avenue 
+New York, NY10022 
+UNITED STATES OF AMERICA 
+  
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+has been verified in accordance with ISO 14064-3:2019 as meeting the requirements 
+of: 
+ 
+GHG Protocol Corporate Accounting and Reporting 
+Standard 
+ 
+To represent a total amount of: 
+ 
+1 242 673 tCO2e (market based) 
+ 
+For the following activities 
+Production, marketing, distribution and sales of clothing, footwear and accessories 
+Lead Assessor: Eric Soroka 
+Technical Reviewer: Paul Parker 
+ 
+Authorised by: 
+02nd Sept 2024
+ 
+Paul Parker
+ 
+ 
+  On behalf of TÜV Rheinland France 
+   
+The inventory of Greenhouse Gas emissions in the period April 2nd 2023 to March 30th 
+2024 for: 
+
+
+================================================================================
+[PAGE 2 OF 3]
+================================================================================
+Page 2 / 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Schedule Accompanying Greenhouse 
+Gas Verification Statement 
+  
+  
+Schedule Accompanying Greenhouse 
+Gas Verification Statement 
+ 
+Brief Description of Verification Process
+TUVR has been contracted by RALPH LAUREN CORPORATION for the verification of direct and indirect carbon dioxide (CO2) 
+equivalent emissions as provided by RALPH LAUREN CORPORATION, 650 Madison Avenue, New York, NY10022, USA, in 
+their GHG Assertion in the form of a “Global Citizenship & Sustainability” Report including CO2 equivalent emissions. 
+The management of RALPH LAUREN CORPORATION is responsible for the organization’s GHG information system, the 
+development and maintenance of records and reporting procedures in accordance with that system, including the calculation 
+and determination of GHG emissions information and the reported GHG emissions. 
+ 
+It is TUVR’s responsibility to express an independent GHG verification opinion on the emissions as provided in the RALPH 
+LAUREN CORPORATION GHG Assertion for the period of Fiscal Year 2024 from 02/04/2023 to 30/03/2024 
+TUVR conducted a third-party verification following the requirements of ISO 14064-3:2019 of the provided CO2 equivalent 
+assertion during July and August 2024. 
+ 
+The assessment included a desk review of the GHG Assertion and supporting data presented. The verification was based on 
+the verification scope, objectives and criteria as agreed between RALPH LAUREN CORPORATION and TUVR on 22/04/2024.
+Level of Assurance
+The level of assurance agreed for the assignment is a limited level of assurance.
+ 
+Scope
+RALPH LAUREN CORPORATION has commissioned an independent verification by TUVR of reported CO2 equivalent 
+emissions arising from their global activities, to establish conformance with the requirements of GHG Protocol within the scope 
+of the verification as outlined below. Data and information supporting the CO2 equivalent assertion were historical in nature and 
+proven by evidence. 
+ 
+This engagement covers verification of emissions from anthropogenic sources of greenhouse gases included within the 
+organization’s boundary and meets the requirements of GHG Protocol.
+ 
+The organizational boundary was established following the operational control approach. 
+ 
+Title or description of activities: Production, marketing, distribution and sales of clothing, footwear and accessories 
+ 
+Location/boundary of the activities: Global operations. 
+ 
+Physical infrastructure, activities, technologies, and processes of the organization: Offices, Distribution Centers and Stores.
+ 
+Types of GHGs included (where applicable): CO2, N2O, CH4, HFCs, PFCs and SF6. 
+ 
+Directed actions: none. 
+ 
+GHG information for the following period was verified: 02/04/2023 – 30/03/2024. 
+ 
+Intended user of the verification statement: general public. 
+ 
+Objective 
+The purposes of this verification exercise are, by review of objective evidence, to independently review: 
+ 
+Whether the CO2 equivalent emissions are as declared within the organization’s CO2 equivalent assertion 
+ 
+That the data reported are accurate, complete, consistent, transparent and free of material error or omission. 
+ 
+Criteria 
+Criteria against which the verification assessment is undertaken are the requirements of the GHG Protocol ‘A Corporate 
+Accounting and Reporting Standard (WRI/WBCSD)’ 
+ 
+Materiality 
+The materiality required of the verification was considered by TUVR to be below 10%, based on the needs of the intended user 
+of the GHG Assertion 
+
+
+================================================================================
+[PAGE 3 OF 3]
+================================================================================
+Page 3 / 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Conclusion
+RALPH LAUREN CORPORATION provided the GHG assertion based on the requirements of GHG 
+Protocol. The GHG information for the period 02/04/2023 – 30/03/2024 disclosing gross emissions of 
+1 242 673 metric tonnes of CO2 equivalent are verified by TUVR to a limited level of assurance, 
+consistent with the agreed verification scope, objectives, and criteria. 
+ 
+Scope 1: Direct GHG Emissions                                                                     14 679 tCO2e 
+Scope 2: Indirect GHG Emissions from Imported Energy (market based)      22 362 tCO2e 
+Scope 2: Indirect GHG Emissions from Imported Energy (location based)     58 601 tCO2e 
+Scope 3: Indirect GHG emissions                                                               1 205 632 tCO2e 
+Scope 3 Included the following categories: 
+Emissions from: Cat 1 purchased goods and services, Cat 3 Fuel and Energy related activities, 
+Cat 4 & 9 Upstream/Downstream transportation, Cat 5 Waste generated in operations, Cat 6 
+Business Travel, Cat 7 Commuting, Cat 11 Use of sold products, Cat 12 EOL of sold products, 
+Cat 14 Franchises 
+ 
+Total gross emissions are based on Scope 2 market-based emissions.  
+ 
+TUVR’s approach is risk-based, drawing on an understanding of the risks associated with modeling 
+GHG emission information and the controls in place to mitigate these risks. Our examination 
+included assessment, on a sample basis, of evidence relevant to the voluntary reporting of emission 
+information. 
+ 
+TUVR concludes with limited assurance that no evidence has been found that the presented CO2 
+equivalent assertion is not materially correct and is not a fair representation of the CO2 equivalent 
+data and information, and is prepared following the requirements of GHG Protocol. 
+ 
+We planned and performed our work to obtain the information, explanations and evidence that we 
+considered necessary to provide a limited level of assurance that the CO2 equivalent emissions for 
+the period 02/04/2023 – 30/03/2024 are fairly stated with the following comments: 
+ 
+ 
+The reasons for exclusion of customer transport in the Scope 3 - Cat 9, as well as any 
+other exclusions and/or unreported Scope 3 categories, should be explained 
+ 
+Documentation on inventory management must include base-year recalculation policy 
+ 
+Internal control procedures should be enhanced to reduce sources of error in data 
+collection and the calculation of associated emissions. 
+  
+This statement shall be interpreted with the CO2 equivalent assertion of Ralph Lauren Corporation as a whole.
+Note: This Statement is issued, on behalf of RALPH LAUREN CORPORATION by T   ÜV Rheinland France. (“TUVR”) under 
+its General Conditions for GHG Validation and Verification Services.The findings recorded hereon are based upon an audit 
+performed by TUVR. A full copy of this statement and the supporting GHG Assertion is available on request from RALPH 
+LAUREN CORPORATION. This Statement does not relieve RALPH LAUREN CORPORATION from compliance with any 
+bylaws, federal, national or regional acts and regulations or with any guidelines issued pursuant to such regulations. 
+Stipulations to the contrary are not binding on TUVR and TUVR shall have no responsibility to any parties other than its 
+Client. 
+ 
+ 
+ 
+Schedule Accompanying Greenhouse 
+Gas Verification Statement 
+ 
+ 
+

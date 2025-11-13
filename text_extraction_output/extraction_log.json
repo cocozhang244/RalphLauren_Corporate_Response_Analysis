@@ -1,0 +1,204 @@
+{
+  "extraction_date": "2025-11-13T13:20:25.239140",
+  "total_files_processed": 22,
+  "files": [
+    {
+      "original_file": "2020_Global_Citizenship_Sustainability_Report_2.pdf",
+      "year": 2020,
+      "document_type": "Global Citizenship & Sustainability Report",
+      "total_pages": 54,
+      "extraction_date": "2025-11-13T13:20:09.418297",
+      "output_file": "/home/user/RalphLauren_Corporate_Response_Analysis/text_extraction_output/2020_2020_Global_Citizenship_Sustainability_Report_2_extracted.txt",
+      "extraction_method": "pymupdf"
+    },
+    {
+      "original_file": "Ralph Lauren 10K 2020.pdf",
+      "year": 2020,
+      "document_type": "10-K Annual Report",
+      "total_pages": 401,
+      "extraction_date": "2025-11-13T13:20:10.222069",
+      "output_file": "/home/user/RalphLauren_Corporate_Response_Analysis/text_extraction_output/2020_Ralph_Lauren_10K_2020_extracted.txt",
+      "extraction_method": "pymupdf"
+    },
+    {
+      "original_file": "Ralph_Lauren_CDP_Climate_Change_2020.pdf",
+      "year": 2020,
+      "document_type": "CDP Climate Change Disclosure",
+      "total_pages": 38,
+      "extraction_date": "2025-11-13T13:20:10.377688",
+      "output_file": "/home/user/RalphLauren_Corporate_Response_Analysis/text_extraction_output/2020_Ralph_Lauren_CDP_Climate_Change_2020_extracted.txt",
+      "extraction_method": "pymupdf"
+    },
+    {
+      "original_file": "2021_Global_Citizenship_&_Sustainability_Report.pdf",
+      "year": 2021,
+      "document_type": "Global Citizenship & Sustainability Report",
+      "total_pages": 64,
+      "extraction_date": "2025-11-13T13:20:10.621156",
+      "output_file": "/home/user/RalphLauren_Corporate_Response_Analysis/text_extraction_output/2021_2021_Global_Citizenship_and_Sustainability_Report_extracted.txt",
+      "extraction_method": "pymupdf"
+    },
+    {
+      "original_file": "CDP-ClimateChange2021-RLCorp.pdf",
+      "year": 2021,
+      "document_type": "CDP Climate Change Disclosure",
+      "total_pages": 43,
+      "extraction_date": "2025-11-13T13:20:10.827869",
+      "output_file": "/home/user/RalphLauren_Corporate_Response_Analysis/text_extraction_output/2021_CDP-ClimateChange2021-RLCorp_extracted.txt",
+      "extraction_method": "pymupdf"
+    },
+    {
+      "original_file": "Ralph Lauren 10K 2021.pdf",
+      "year": 2021,
+      "document_type": "10-K Annual Report",
+      "total_pages": 154,
+      "extraction_date": "2025-11-13T13:20:11.277593",
+      "output_file": "/home/user/RalphLauren_Corporate_Response_Analysis/text_extraction_output/2021_Ralph_Lauren_10K_2021_extracted.txt",
+      "extraction_method": "pymupdf"
+    },
+    {
+      "original_file": "Ralph Lauren Corporation_CDP-Water-Security-2021.pdf",
+      "year": 2021,
+      "document_type": "CDP Water Security Disclosure",
+      "total_pages": 13,
+      "extraction_date": "2025-11-13T13:20:11.346279",
+      "output_file": "/home/user/RalphLauren_Corporate_Response_Analysis/text_extraction_output/2021_Ralph_Lauren_Corporation_CDP-Water-Security-2021_extracted.txt",
+      "extraction_method": "pymupdf"
+    },
+    {
+      "original_file": "2022-RL-GCSReport.pdf",
+      "year": 2022,
+      "document_type": "Global Citizenship & Sustainability Report",
+      "total_pages": 96,
+      "extraction_date": "2025-11-13T13:20:11.694625",
+      "output_file": "/home/user/RalphLauren_Corporate_Response_Analysis/text_extraction_output/2022_2022-RL-GCSReport_extracted.txt",
+      "extraction_method": "pymupdf"
+    },
+    {
+      "original_file": "CDP-ClimateChange2022-RLCorp.pdf",
+      "year": 2022,
+      "document_type": "CDP Climate Change Disclosure",
+      "total_pages": 64,
+      "extraction_date": "2025-11-13T13:20:11.997318",
+      "output_file": "/home/user/RalphLauren_Corporate_Response_Analysis/text_extraction_output/2022_CDP-ClimateChange2022-RLCorp_extracted.txt",
+      "extraction_method": "pymupdf"
+    },
+    {
+      "original_file": "RL_FY2022 Carbon Footprint Verification Statement.pdf",
+      "year": 2022,
+      "document_type": "Carbon Footprint Verification/Assurance",
+      "total_pages": 4,
+      "extraction_date": "2025-11-13T13:20:12.021552",
+      "output_file": "/home/user/RalphLauren_Corporate_Response_Analysis/text_extraction_output/2022_RL_FY2022_Carbon_Footprint_Verification_Statement_extracted.txt",
+      "extraction_method": "pymupdf"
+    },
+    {
+      "original_file": "Ralph Lauren 10K 2022.pdf",
+      "year": 2022,
+      "document_type": "10-K Annual Report",
+      "total_pages": 281,
+      "extraction_date": "2025-11-13T13:20:13.137194",
+      "output_file": "/home/user/RalphLauren_Corporate_Response_Analysis/text_extraction_output/2022_Ralph_Lauren_10K_2022_extracted.txt",
+      "extraction_method": "pymupdf"
+    },
+    {
+      "original_file": "Ralph Lauren Corporation_CDP-Water-Security-2022.pdf",
+      "year": 2022,
+      "document_type": "CDP Water Security Disclosure",
+      "total_pages": 24,
+      "extraction_date": "2025-11-13T13:20:13.267925",
+      "output_file": "/home/user/RalphLauren_Corporate_Response_Analysis/text_extraction_output/2022_Ralph_Lauren_Corporation_CDP-Water-Security-2022_extracted.txt",
+      "extraction_method": "pymupdf"
+    },
+    {
+      "original_file": "CDP-ClimateChange2023.pdf",
+      "year": 2023,
+      "document_type": "CDP Climate Change Disclosure",
+      "total_pages": 73,
+      "extraction_date": "2025-11-13T13:20:13.522450",
+      "output_file": "/home/user/RalphLauren_Corporate_Response_Analysis/text_extraction_output/2023_CDP-ClimateChange2023_extracted.txt",
+      "extraction_method": "pymupdf"
+    },
+    {
+      "original_file": "CDP-WaterSecurity2023.pdf",
+      "year": 2023,
+      "document_type": "CDP Water Security Disclosure",
+      "total_pages": 30,
+      "extraction_date": "2025-11-13T13:20:13.642796",
+      "output_file": "/home/user/RalphLauren_Corporate_Response_Analysis/text_extraction_output/2023_CDP-WaterSecurity2023_extracted.txt",
+      "extraction_method": "pymupdf"
+    },
+    {
+      "original_file": "RL-2023-GCSReport.pdf",
+      "year": 2023,
+      "document_type": "Global Citizenship & Sustainability Report",
+      "total_pages": 113,
+      "extraction_date": "2025-11-13T13:20:13.870656",
+      "output_file": "/home/user/RalphLauren_Corporate_Response_Analysis/text_extraction_output/2023_RL-2023-GCSReport_extracted.txt",
+      "extraction_method": "pymupdf"
+    },
+    {
+      "original_file": "RL-FY23_CarbonFootprint VerificationStatement.pdf",
+      "year": 2023,
+      "document_type": "Carbon Footprint Verification/Assurance",
+      "total_pages": 4,
+      "extraction_date": "2025-11-13T13:20:13.889410",
+      "output_file": "/home/user/RalphLauren_Corporate_Response_Analysis/text_extraction_output/2023_RL-FY23_CarbonFootprint_VerificationStatement_extracted.txt",
+      "extraction_method": "pymupdf"
+    },
+    {
+      "original_file": "Ralph Lauren 10K 2023.pdf",
+      "year": 2023,
+      "document_type": "10-K Annual Report",
+      "total_pages": 147,
+      "extraction_date": "2025-11-13T13:20:14.478827",
+      "output_file": "/home/user/RalphLauren_Corporate_Response_Analysis/text_extraction_output/2023_Ralph_Lauren_10K_2023_extracted.txt",
+      "extraction_method": "pymupdf"
+    },
+    {
+      "original_file": "Ralph Lauren 10K 2025.pdf",
+      "year": 2025,
+      "document_type": "10-K Annual Report",
+      "total_pages": 144,
+      "extraction_date": "2025-11-13T13:20:15.078855",
+      "output_file": "/home/user/RalphLauren_Corporate_Response_Analysis/text_extraction_output/2025_Ralph_Lauren_10K_2025_extracted.txt",
+      "extraction_method": "pymupdf"
+    },
+    {
+      "original_file": "CDP2024-Climate-Water-Forest-Disclosure (1).pdf",
+      "year": 2024,
+      "document_type": "CDP Climate Change Disclosure",
+      "total_pages": 373,
+      "extraction_date": "2025-11-13T13:20:24.125367",
+      "output_file": "/home/user/RalphLauren_Corporate_Response_Analysis/text_extraction_output/2024_CDP2024-Climate-Water-Forest-Disclosure_(1)_extracted.txt",
+      "extraction_method": "pymupdf"
+    },
+    {
+      "original_file": "Corporate Carbon Footprint Assurance Statement.pdf",
+      "year": 2024,
+      "document_type": "Carbon Footprint Verification/Assurance",
+      "total_pages": 3,
+      "extraction_date": "2025-11-13T13:20:24.145948",
+      "output_file": "/home/user/RalphLauren_Corporate_Response_Analysis/text_extraction_output/2024_Corporate_Carbon_Footprint_Assurance_Statement_extracted.txt",
+      "extraction_method": "pymupdf"
+    },
+    {
+      "original_file": "RL-2024-GCSReport.pdf",
+      "year": 2024,
+      "document_type": "Global Citizenship & Sustainability Report",
+      "total_pages": 111,
+      "extraction_date": "2025-11-13T13:20:24.451298",
+      "output_file": "/home/user/RalphLauren_Corporate_Response_Analysis/text_extraction_output/2024_RL-2024-GCSReport_extracted.txt",
+      "extraction_method": "pymupdf"
+    },
+    {
+      "original_file": "Ralph Lauren 10K 2024.pdf",
+      "year": 2024,
+      "document_type": "10-K Annual Report",
+      "total_pages": 221,
+      "extraction_date": "2025-11-13T13:20:25.235774",
+      "output_file": "/home/user/RalphLauren_Corporate_Response_Analysis/text_extraction_output/2024_Ralph_Lauren_10K_2024_extracted.txt",
+      "extraction_method": "pymupdf"
+    }
+  ]
+}
