@@ -1,0 +1,222 @@
+################################################################################
+RALPH LAUREN ESG ANALYSIS - EXTRACTED TEXT
+################################################################################
+Source File: RL-FY23_CarbonFootprint VerificationStatement.pdf
+Year: 2023
+Document Type: Carbon Footprint Verification/Assurance
+Total Pages: 4
+Extraction Date: 2025-11-13 13:20:13
+################################################################################
+
+
+================================================================================
+[PAGE 1 OF 4]
+================================================================================
+Industrial Services 
+Sustainability and Carbon Services 
+ 
+1/4 
+Review Report 
+14 June 2023 
+Test Report Number: CF-2023-06-21258854 
+ 
+Corporate Carbon Footprint FY 2023 of Ralph Lauren Corporation 
+ 
+ 
+ 
+ 
+ 
+ 
+Ralph Lauren Corporation 
+650 Madison Avenue 
+New York, NY10022 
+ 
+Critical Review of: 
+ 
+„Corporate Carbon Footprint of Ralph Lauren Corporation”  
+(final version provided on 12.06.2023 and 10.06.2023,  
+files: FY23_RalphLauren_Scope1-2_Footprint_2023-05-22_FINAL_External_RL Assurance 
+Edits.xlsx; RL_Scope3_FY23_Footprint.xlsx)  
+ 
+ 
+ 
+ 
+TÜV Rheinland Energy GmbH 
+Am Grauen Stein 
+D-51105 Cologne 
+ 
+Tel 
++49 221 806-5200 
+Fax +49 221 806-1349 
+Mail    tre-service@de.tuv.com 
+Web  www.umwelt-tuv.de 
+ 
+ www.eco-tuv.com 
+ 
+Management and headquarters of the 
+company: 
+ 
+Managing Director: Dirk Fenske 
+ 
+Registered office of the company: Cologne 
+District Court: HRB Cologne 56171 
+Sales tax ID number: DE 814653989 
+
+
+================================================================================
+[PAGE 2 OF 4]
+================================================================================
+Industrial Services 
+Sustainability and Carbon Services 
+ 
+2/4 
+ 
+ 
+ 
+Project: 
+Corporate Carbon Footprint of Ralph Lauren 
+Corporation 
+Client: 
+Ralph Lauren Corporation, 650 Madison Avenue, 
+New York, NY10022 
+Main contact person: 
+Bobby Renz (Ralph Lauren)  
+Date of creation: 
+14 June 2023 
+GHG covered: 
+direct / indirect / CO2 equivalents 
+Verifier: 
+TÜV Rheinland Energy GmbH 
+Editor: 
+Ran Tao 
+Internal peer review: 
+Till Wenigmann 
+Accounting boundary 
+All relevant scope and categories according to 
+GHG Protocol:2004 
+Test specification: 
+GHG Protocol: 2004, A Corporate Accounting and 
+Reporting Standard and DIN EN ISO 14064-1 
+ 
+Level of assurance according to ISO 
+14064-3:2019: 
+Limited level of assurance 
+Accounting period for certification:  
+01 April 2022– 31 March 2023; FY 2023 
+Accounting methodology: 
+retrospective  
+Verified result 
+Carbon Footprints: 
+Market based: 1,317,348 t CO2 e, 
+Location based: 1,315,569 t CO2 e 
+TÜV Rheinland Energy GmbH 
+Am Grauen Stein, 51105 Cologne 
+Ran Tao  
+Carbon Service 
+ran.tao@de.tuv.com  
++49 21 806 5132 
+
+
+================================================================================
+[PAGE 3 OF 4]
+================================================================================
+Industrial Services 
+Sustainability and Carbon Services 
+ 
+3/4 
+Review Statement 
+ 
+A critical review in accordance with DIN EN ISO 14064 was carried out for the Corporate 
+Carbon Footprint (all relevant direct and indirect greenhouse gas emissions) in fiscal year 2023 
+(01 April 2022-31 March 2023) of Ralph Lauren Corporation.  
+ 
+The organizational boundaries include the locations in North America, Asia-Pacific region, 
+Europe, the Middle East and Africa (considering distribution centers (includes storage), retail 
+(includes showrooms) and offices).  
+ 
+All relevant greenhouse gas inventory categories have been considered. Capital goods, Up- 
+and Downstream Leased Assets, Processing of sold products and Investments were excluded 
+as they are not relevant for the operations of Ralph Lauren Corporation. 
+ 
+For the most important activities in the considered reporting period 01 April 2022 – 31 March 
+2023, the data provided by Ralph Lauren Corporation was collected from activity data and can 
+be considered accurate. Understandable gap filling method was applied in the calculation for 
+the regions with no primary data. In some of the greenhouse gas inventory categories, such 
+as Waste, Commuting and Franchises, due to the limited access to data, estimations were 
+made and considered to be consistent with previous methodology. Appropriate/ current 
+emission factors were used. Overall data quality was considered sufficient to calculate 
+meaningful results for all of the activities. The resulting greenhouse gases of some categories 
+were estimated through statistical average data based on space area and climate zone. 
+ 
+The organizational and operational system boundaries, calculations and data used (emission 
+factors and activity data) in the CCF calculation were reviewed for accuracy and completeness. 
+All analysis steps were performed correctly in accordance with DIN EN ISO 14064. They are 
+scientifically justified and correspond to the state of the art. The results are conclusive. With 
+regard to the objectives and scope of the calculation, the data used can be classified as 
+sufficient. The presentation of the results is understandable. Relevant recommendations for 
+the calculation were discussed during the review process. The calculation tables presented 
+are inherently consistent and transparent.  
+ 
+ 
+ 
+ 
+ 
+
+
+================================================================================
+[PAGE 4 OF 4]
+================================================================================
+Industrial Services 
+Sustainability and Carbon Services 
+ 
+4/4 
+The greenhouse gas emissions calculated are classified according to GHG Protocol Corporate 
+Accounting and Reporting Standard: 2004 and listed below:  
+ 
+ 
+ 
+ 
+Market-based  
+ 
+Location-based 
+- 
+Scope 1:  
+12,206 t CO2 e                       12,206 t CO2 e 
+- 
+Scope 2:  
+62,381 t CO2 e  
+ 
+ 60,808 t CO2 e 
+- 
+Scope 3: 
+1,242,761 t CO2 e  
+ 
+1,242,555 t CO2 e 
+                Total  
+1,317,348 t CO2 e  
+ 
+1,315,569 t CO2e 
+ 
+The calculations were checked on the basis of the documents provided. 
+ 
+In the review process, no significant misstatements or errors were identified which would have 
+led to a significant change in the greenhouse gases assessed. The calculated values are 
+therefore correctly determined in relation to the defined boundaries. 
+ 
+ 
+Cologne, 14 June 2023 
+ 
+ 
+ 
+  
+                                                     
+ 
+ 
+ 
+Ran Tao                                                                Till Wenigmann 
+ 
+ 
+TÜV Rheinland Energy GmbH  
+Carbon Service 
+  
+

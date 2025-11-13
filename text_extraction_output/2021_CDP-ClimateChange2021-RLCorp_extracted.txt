@@ -1,0 +1,3041 @@
+################################################################################
+RALPH LAUREN ESG ANALYSIS - EXTRACTED TEXT
+################################################################################
+Source File: CDP-ClimateChange2021-RLCorp.pdf
+Year: 2021
+Document Type: CDP Climate Change Disclosure
+Total Pages: 43
+Extraction Date: 2025-11-13 13:20:10
+################################################################################
+
+
+================================================================================
+[PAGE 1 OF 43]
+================================================================================
+Ralph Lauren Corporation - Climate Change 2021
+C0. Introduction
+C0.1
+(C0.1) Give a general description and introduction to your organization.
+Founded in 1967 by Mr. Ralph Lauren, we are a global leader in the design, marketing, and distribution of premium lifestyle products, including apparel, footwear,
+accessories, home furnishings, fragrances, and hospitality. Our long-standing reputation and distinctive image have been developed across an expanding number of products,
+brands, sales channels, and international markets. We believe that our global reach, breadth of product offerings, and multi-channel distribution are unique among luxury and
+apparel companies.
+Our global reach is extensive, as we sell directly to customers throughout the world via our 548 retail stores and 650 concession-based shop-within-shops, as well as through
+our own digital commerce sites and those of various third-party digital partners. Merchandise is also available through our wholesale distribution channels at approximately
+9,000 doors worldwide, the majority in specialty stores, as well as through the digital commerce sites of many of our wholesale customers. In addition to our directly-operated
+stores and shops, our international licensing partners operate 139 Ralph Lauren stores and shops, and 143 Club Monaco stores and shops.
+For more than 50 years, Ralph Lauren has inspired the dream of a better life through authenticity and timeless style, and we approach citizenship & sustainability with this in
+mind. This core purpose informs our every day at Ralph Lauren and extends across our entire business. It is inextricably linked to how we create a better future for our
+Company, the people we come into contact with and the world.
+Two years ago, we launched our renewed citizenship and sustainability strategy, Design the Change. Our strategy was built on the values and purpose that have defined our
+business for more than half a century, and it is based on our belief that together with our industry, we can deliver the change required to create a positive impact in society and
+a more sustainable future. 
+When we set out on our journey to Design the Change, we set ambitious goals and dedicated ourselves to integrating our strategy into every part of our business with a clear
+focus on three pillars: Creating Timeless Style, Protecting the Environment, and Championing Better Lives.
+We are two years into our journey and while we, along with the world, face an unprecedented challenge and global crisis, we are optimistic about the future and are committed
+to doing what we can to create a better tomorrow.
+Design the Change accelerates our work across Global Citizenship & Sustainability. Fundamentally, we believe that together with our industry, we can deliver the change
+required to create a positive impact in society and a more sustainable future. In June 2020, Ralph Lauren signed onto the United Nations Global Compact, joining other
+companies across industries committed to implementing universal sustainability principles. 
+Through Design the Change, we:
+· Create Timeless Style: We believe one of our greatest commitments to sustainability is designing products worn, loved and made to last. We are committed to responsible
+sourcing and using state-of-the-art materials that allow us to create our products more sustainably, without compromising the quality we’re known for.
+· Protect the Environment: We’re using partnerships and technology to reduce the environmental impact of our operations and supply chain across energy, emissions, water
+and waste. We believe collaboration is key to finding solutions, which is why we joined leading groups and support nonprofits dedicated to mitigating the environmental
+impacts of business.
+· Champion Better Lives: We aim to positively affect the lives of those touched by our business, including people in our communities, workforce and supply chain.
+Risks and opportunities described herein with the potential to have a ‘substantive financial or strategic impact on our business’ are not necessarily ‘material’ to investors as
+defined by the SEC.
+CDP system functionality only allows for 365 days to be reflected in the start and end date fields below. The results contained in this CDP survey are for Ralph Lauren’s fiscal
+year 2020 (March 29, 2020 through March 27, 2021) which consisted of 363 days.
+C0.2
+CDP
+Page  of 43
+1
+
+
+================================================================================
+[PAGE 2 OF 43]
+================================================================================
+(C0.2) State the start and end date of the year for which you are reporting data.
+Start date
+End date
+Indicate if you are providing emissions data for past reporting years
+Select the number of past reporting years you will be providing emissions data for
+Reporting year April 1 2020 March 31 2021 No
+<Not Applicable>
+C0.3
+(C0.3) Select the countries/areas for which you will be supplying data.
+Australia
+Austria
+Bangladesh
+Belgium
+Brazil
+Canada
+China
+China, Hong Kong Special Administrative Region
+China, Macao Special Administrative Region
+Czechia
+Denmark
+France
+Germany
+Greece
+India
+Ireland
+Italy
+Japan
+Malaysia
+Monaco
+Netherlands
+Poland
+Portugal
+Republic of Korea
+Singapore
+Spain
+Sweden
+Switzerland
+Taiwan, Greater China
+Turkey
+United Kingdom of Great Britain and Northern Ireland
+United States of America
+Viet Nam
+C0.4
+(C0.4) Select the currency used for all financial information disclosed throughout your response.
+USD
+C0.5
+(C0.5) Select the option that describes the reporting boundary for which climate-related impacts on your business are being reported. Note that this option should
+align with your chosen approach for consolidating your GHG inventory.
+Operational control
+C1. Governance
+C1.1
+(C1.1) Is there board-level oversight of climate-related issues within your organization?
+Yes
+C1.1a
+CDP
+Page  of 43
+2
+
+
+================================================================================
+[PAGE 3 OF 43]
+================================================================================
+(C1.1a) Identify the position(s) (do not include any names) of the individual(s) on the board with responsibility for climate-related issues.
+Position of
+individual(s)
+Please explain
+Chief
+Executive
+Officer
+(CEO)
+Formal governance of Global Citizenship & Sustainability at Ralph Lauren, including climate-related issues, sits with our Board of Directors (the Board). The full Board receives a report on citizenship
+and sustainability progress at least once annually, including climate-related issues, and reviews the Company’s annual Global Citizenship & Sustainability Report. The Nominating, Governance,
+Citizenship & Sustainability Committee (the Nominating Committee) of the Board has oversight of our environmental, social, and governance (ESG) risks and opportunities. The Nominating,
+Governance, Citizenship & Sustainability Committee (the Nominating Committee) of the Board receives quarterly updates, reviews initiatives, goals, and policies, and makes recommendations to the
+Board on ESG matters, including climate-related issues. This includes reviewing a summary report of our climate-related risks and mitigation strategies on a semiannual basis. Our Board also
+includes our CEO (who also holds the title of President) and our Chief Innovation Officer. Our CEO reviews and approves significant climate strategy and communications decisions, including
+reviewing and approving our recent target to achieve net-zero greenhouse gas emissions by 2040.
+Other C-
+Suite Officer
+Formal governance of Global Citizenship & Sustainability at Ralph Lauren, including climate-related issues, sits with our Board of Directors (the Board). The full Board receives a report on citizenship
+and sustainability progress at least once annually, including climate-related issues, and reviews the Company’s annual Global Citizenship & Sustainability Report. The Nominating, Governance,
+Citizenship & Sustainability Committee (the Nominating Committee) of the Board has oversight of our environmental, social, and governance (ESG) risks and opportunities. The Nominating,
+Governance, Citizenship & Sustainability Committee (the Nominating Committee) of the Board receives quarterly updates, reviews initiatives, goals, and policies, and makes recommendations to the
+Board on ESG matters, including climate-related issues. This includes reviewing a summary report of our climate-related risks and mitigation strategies on a semiannual basis. Our Board also
+includes our CEO (who also holds the title of President) and our Chief Innovation Officer.
+President
+Formal governance of Global Citizenship & Sustainability at Ralph Lauren, including climate-related issues, sits with our Board of Directors (the Board). The full Board receives a report on citizenship
+and sustainability progress at least once annually, including climate-related issues, and reviews the Company’s annual Global Citizenship & Sustainability Report. The Nominating, Governance,
+Citizenship & Sustainability Committee (the Nominating Committee) of the Board has oversight of our environmental, social, and governance (ESG) risks and opportunities. The Nominating,
+Governance, Citizenship & Sustainability Committee (the Nominating Committee) of the Board receives quarterly updates, reviews initiatives, goals, and policies, and makes recommendations to the
+Board on ESG matters, including climate-related issues. This includes reviewing a summary report of our climate-related risks and mitigation strategies on a semiannual basis. Our Board also
+includes our CEO (who also holds the title of President) and our Chief Innovation Officer. Our President reviews and approves significant climate strategy and communications decisions, including
+reviewing and approving our recent target to achieve net-zero greenhouse gas emissions by 2040.
+Board-level
+committee
+Formal governance of Global Citizenship & Sustainability at Ralph Lauren, including climate-related issues, sits with our Board of Directors (the Board). The full Board receives a report on citizenship
+and sustainability progress at least once annually, including climate-related issues, and reviews the Company’s annual Global Citizenship & Sustainability Report. The Nominating, Governance,
+Citizenship & Sustainability Committee (the Nominating Committee) of the Board has oversight of our environmental, social, and governance (ESG) risks and opportunities. The Nominating,
+Governance, Citizenship & Sustainability Committee (the Nominating Committee) of the Board receives quarterly updates, reviews initiatives, goals, and policies, and makes recommendations to the
+Board on ESG matters, including climate-related issues. This includes reviewing a summary report of our climate-related risks and mitigation strategies on a semiannual basis. Our Board also
+includes our CEO (who also holds the title of President) and our Chief Innovation Officer.
+C1.1b
+(C1.1b) Provide further details on the board’s oversight of climate-related issues.
+Frequency
+with
+which
+climate-
+related
+issues are
+a
+scheduled
+agenda
+item
+Governance
+mechanisms
+into which
+climate-
+related issues
+are integrated
+Scope of
+board-
+level
+oversight
+Please explain
+Scheduled
+– some
+meetings
+Reviewing and
+guiding
+strategy
+Reviewing and
+guiding major
+plans of action
+Reviewing and
+guiding risk
+management
+policies
+Reviewing and
+guiding
+business plans
+Monitoring
+implementation
+and
+performance of
+objectives
+<Not
+Applicabl
+e>
+The Nominating, Governance, Citizenship & Sustainability Committee (the Nominating Committee) of the Board receives quarterly updates, reviews initiatives, goals, and
+policies, and makes recommendations to the Board on ESG matters, including climate-related issues. Each quarterly update to the Nominating Committee also includes a
+standing agenda item on ESG-related risks, inclusive of climate risks, and a deep dive on an ESG topic, allowing the members to bring their expertise to the subject at
+hand. Updates in the previous year include a summary report of our climate-related risks and mitigation strategies; opportunities to mitigate climate change through
+regenerative cotton farming; and a summary of ESG key performance indicators, including updates on climate-related KPIs. The Finance Committee of the Board and the
+Nominating committee advise on the incorporation of goals into our corporate strategy and engagement on those business initiatives that influence corporate citizenship and
+sustainability. The Audit Committee of the Board reviews ESG risks as part of its overall Enterprise Risk Management review. The full Board receives a report on citizenship
+and sustainability progress at least once annually and reviews the Company’s annual Global Citizenship & Sustainability Report.
+C1.2
+CDP
+Page  of 43
+3
+
+
+================================================================================
+[PAGE 4 OF 43]
+================================================================================
+(C1.2) Provide the highest management-level position(s) or committee(s) with responsibility for climate-related issues.
+Name of the position(s) and/or committee(s)
+Reporting
+line
+Responsibility
+Coverage of
+responsibility
+Frequency of reporting to the board on climate-
+related issues
+Chief Executive Officer (CEO)
+<Not
+Applicable>
+Both assessing and managing climate-related risks
+and opportunities
+<Not Applicable>
+Quarterly
+President
+<Not
+Applicable>
+Both assessing and managing climate-related risks
+and opportunities
+<Not Applicable>
+Quarterly
+Chief Financial Officer (CFO)
+<Not
+Applicable>
+Both assessing and managing climate-related risks
+and opportunities
+<Not Applicable>
+Quarterly
+Chief Operating Officer (COO)
+<Not
+Applicable>
+Both assessing and managing climate-related risks
+and opportunities
+<Not Applicable>
+Quarterly
+Chief Sustainability Officer (CSO)
+<Not
+Applicable>
+Both assessing and managing climate-related risks
+and opportunities
+<Not Applicable>
+More frequently than quarterly
+Other C-Suite Officer, please specify (Chief Innovation Officer)
+<Not
+Applicable>
+Both assessing and managing climate-related risks
+and opportunities
+<Not Applicable>
+More frequently than quarterly
+Other C-Suite Officer, please specify (Chief People Officer)
+<Not
+Applicable>
+Both assessing and managing climate-related risks
+and opportunities
+<Not Applicable>
+More frequently than quarterly
+Other committee, please specify (Global Citizenship & Sustainability
+Steering Committee )
+<Not
+Applicable>
+Both assessing and managing climate-related risks
+and opportunities
+<Not Applicable>
+More frequently than quarterly
+C1.2a
+(C1.2a) Describe where in the organizational structure this/these position(s) and/or committees lie, what their associated responsibilities are, and how climate-
+related issues are monitored (do not include the names of individuals).
+Our CEO, who also holds the title of President, is responsible for the daily management of our company. Our CEO is also a member of our Board of Directors (the Board).
+Formal governance of Global Citizenship & Sustainability at Ralph Lauren, including climate-related issues, sits with the Board. The full Board receives a report on citizenship
+and sustainability progress at least once annually, including climate-related issues, and reviews the Company’s annual Global Citizenship & Sustainability Report. Our CEO
+reviews and approves significant climate strategy and communications decisions, including reviewing and approving our recent target to achieve net-zero greenhouse gas
+emissions by 2040. Our CEO also serves on the Steering Committee of the G7 Fashion Pact, helping the organization set priorities, ensure appropriate allocation of
+resources, and advocate for increased sustainability standards and expectations within our industry across all three of the Fashion Pacts pillars: climate, biodiversity, and
+oceans.
+Our CFO, who also holds the title of COO, is responsible for the daily management of our company’s finances. Our CFO reviews and approves significant climate strategy and
+communications decisions, including reviewing and approving our renewable power target and general strategy for sourcing renewable power.
+Our Chief Product and Sustainability Officer is responsible for day-to-day management of climate-related issues as part of our broader citizenship and sustainability program
+and reports directly to our CEO. With responsibility for both sustainability and product, our Chief Product and Sustainability Officer creates a direct line between managing the
+development, production, and transport of our product and the climate change impacts of our product and operations. Our Product and Sustainability Officer serves as chair of
+our Global Citizenship & Sustainability Steering Committee and, in that capacity, meets monthly with representatives from across our organization to prioritize and resource
+our approach for climate-related issues and other sustainability topics. She also meets regularly with our dedicated corporate sustainability team to advise on strategy,
+supplier engagement, and external communications related to climate change. She also serves on the Operating Committee of the G7 Fashion Pact, helping to implement the
+priorities set by the Steering Committee, establishing working groups, and supporting outreach to external partners and experts across all three of the Fashion Pacts pillars:
+climate, biodiversity, and oceans.   
+To further drive Company engagement, our Global Citizenship & Sustainability Steering Committee meets monthly to prioritize and resource our approach for climate-related
+issues and other sustainability topics. The steering committee is composed of leaders from across the Company and is responsible for defining, tracking, and championing
+this work with the teams. It is chaired by our Chief Product and Sustainability Officer, who also oversees our sustainability program. The Steering Committee also includes our
+Chief Innovation Officer, Chief People Officer, and Corporate Senior Vice President for Global Corporate Communication & Public Affairs. 
+C1.3
+(C1.3) Do you provide incentives for the management of climate-related issues, including the attainment of targets?
+Provide incentives for the management of climate-related issues
+Comment
+Row 1
+Yes
+C1.3a
+CDP
+Page  of 43
+4
+
+
+================================================================================
+[PAGE 5 OF 43]
+================================================================================
+(C1.3a) Provide further details on the incentives provided for the management of climate-related issues (do not include the names of individuals).
+Entitled to incentive
+Type of
+incentive
+Activity
+inventivized
+Comment
+Other, please specify (All Director-
+level employees and above)
+Monetary
+reward
+Emissions
+reduction
+target
+Our compensation structure is linked to progress on a number of key performance indicators. These indicators include progress towards achieving our
+GHG target of a 30% absolute reduction in our scope 1, 2, and 3 emissions by 2030 relative to our FY20 baseline.
+C2. Risks and opportunities
+C2.1
+(C2.1) Does your organization have a process for identifying, assessing, and responding to climate-related risks and opportunities?
+Yes
+C2.1a
+(C2.1a) How does your organization define short-, medium- and long-term time horizons?
+From (years)
+To (years)
+Comment
+Short-term
+0
+2
+Medium-term
+2
+5
+Long-term
+5
+C2.1b
+(C2.1b) How does your organization define substantive financial or strategic impact on your business?
+In our corporate Enterprise Risk Management process, risks rating criteria are used to assess the extent to which a risk event may affect the company’s strategy, finances,
+operations, and/or reputation. We consider any risks rated as “critical” or “high” to have a substantive financial or strategy impact on our business. A critical risk is defined as
+having one or more of the following impacts: (1) a very high impact on the company’s ability to meet strategic goals or execute priority initiatives; (2) leading to greater than
+$700 million impact on revenue or $70 million impact on our operating margin; (3) a national, sustained, negative reputational damage with stakeholders; or (4) leading to
+severe and potentially long-term impact on the operations of our business. A “high” risk is defined as having one or more of the following impacts: (1) a high impact on the
+company’s ability to meet strategy goals or execute priority initiatives; (2) leading to between $350 million and $700 million impact on revenue or between $35 million and $70
+million impact on our operating margin; (3) a national, short-term, negative reputational damage with stakeholders; or (4) leading to significant impact on the operations of our
+business. Risks and opportunities described herein with the potential to have a "substantive financial or strategic impact on our business’ are not necessarily ‘material’ to
+investors as defined by the SEC. 
+C2.2
+CDP
+Page  of 43
+5
+
+
+================================================================================
+[PAGE 6 OF 43]
+================================================================================
+(C2.2) Describe your process(es) for identifying, assessing and responding to climate-related risks and opportunities.
+Value chain stage(s) covered
+Direct operations
+Upstream
+Downstream
+Risk management process
+Integrated into multi-disciplinary company-wide risk management process
+Frequency of assessment
+More than once a year
+Time horizon(s) covered
+Short-term
+Medium-term
+Long-term
+Description of process
+Ralph Lauren’s Enterprise Risk Management (ERM) process is used to identify and plan responses to ensure the health and life of the business enterprise and successfully
+prepare our company to face any risk event, including those presented by climate change. Our ERM process currently involves identifying broad ESG sustainability risks,
+creating rankings of importance for each risk, and creating mitigation plans for certain risks. We primarily focus on risks within each fiscal year, rather than long-term risks.
+As part of this annual ERM assessment, our Senior Vice President for Internal Audit & Asset Protection initiates this process by meeting with leadership of different
+business units (e.g., Chief Supply Chain Officer, Chief Sustainability Officer, Chief Commercial Officer, etc.) and gathers a list of risks that each business unit has identified.
+From this full list, our ERM team conducts an exercise to rank risks based on the perceived potential impact of each risk and the company’s vulnerability to that risk. This
+ranking is benchmarked against the previous year’s ERM results and discussed with business unit managers to fine-tune these rankings. For each risk identified, the ERM
+team works with business unit leaders to create mitigation plans for each risk. For ESG risks, this involves engaging our Chief Sustainability Officer to develop mitigation
+plans, including for those related to climate change. For top risks, our Senior Vice President for Internal Audit & Asset Protection assigns a risk owner to manage the risk
+and report to the Board of Directors quarterly. Through the ERM process, climate change has been identified as an ESG risk that requires a more granular assessment
+process. To conduct this detailed climate risk assessment, we created a cross-functional Ralph Lauren Climate Risk Taskforce, designed to make the company more
+resilient to evolving risks presented by climate change. On a semiannual basis, the taskforce develops and updates a Climate Risk Report to: (1) identify key climate risks;
+(2) describe the risks, the level of impact, and likelihood, and ensure key actions are being taken to address risks; and (3) communicate climate risks to key stakeholders,
+including our leadership team and Board of Directors. The Climate Risk Taskforce is responsible for preparing the semiannual Climate Risk Report and for developing inputs
+for other internal and external reporting on climate risk, including ERM and this CDP Climate Change questionnaire. The Taskforce includes representatives from the
+following teams/business units: sustainability, internal audit/risk, logistics, sourcing, investor relations, store operations/asset protection, global risk, communications,
+finance, and legal. The Climate Risk Report is reviewed by our Global Citizenship & Sustainability Steering Committee, who is responsible for ensuring climate risk is built
+into our operating model and business strategy. The Climate Risk Report is then presented to the Board of Directors, where the Nominating, Governance, Citizenship and
+Sustainability Committee is responsible for oversight of sustainability and ESG matters, including climate risk. To assess climate risks, the Taskforce describes risks
+according to the following categories: where the risk occurs, risk type, risk driver, time horizon, likelihood, magnitude of impact, financial impact, and key actions to mitigate
+risk. Financial impact is evaluated according to the financial impact criteria used in our corporate ERM process across four tiers of impact to our revenue and operating
+margin. In developing the Climate Risk Report, the Taskforce identified both climate-related physical risks and climate-related transitional risks. The most critical climate-
+related physical risk identified by the Taskforce come from extreme weather impacts on the availability and cost of raw materials, largely driven by the impact of climate
+change on cotton production. We are responding to this climate-related risk by implementing a sourcing strategy focused on near-shoring, geographic diversification, and
+the use of sustainable materials. This strategy will help mitigate potential increases in raw material costs due to extreme weather events in one sourcing country or region
+by allowing us to more easily shift our sourcing to other countries or regions. Specifically, we have set a goal to switch to 100 percent sustainable sourced key materials by
+2025, including cotton that is either from the Better Cotton Initiative (BCI), Fair Trade certified, organic, recycled, transitional, or aligned to the U.S. Cotton Trust Protocol.
+The Taskforce also identified climate-related transitional risks, including the need to transition to lower emissions technology to reduce the greenhouse gas emissions
+impact of our operations and supply chain in line with our goal of reducing our absolute Scope 1, 2, and 3 emissions by 30% by 2030 from our FY20 baseline. To address
+the technological challenges of transitioning to a low-carbon business model, we are investing in technologies that have the potential to reduce the emissions of our
+products, such as our use of ECOFAST™ Pure Sustainable Textile Treatment, a pre-treatment solution developed by Dow for cotton textiles. When used with existing
+dyeing equipment, ECOFAST™ Pure enables the use of less water, chemicals, and energy, reducing the carbon footprint of products compared to traditional cotton dyeing
+processes.
+C2.2a
+CDP
+Page  of 43
+6
+
+
+================================================================================
+[PAGE 7 OF 43]
+================================================================================
+(C2.2a) Which risk types are considered in your organization's climate-related risk assessments?
+Relevance
+&
+inclusion
+Please explain
+Current
+regulation
+Relevant,
+always
+included
+Current regulations are assessed as part of Ralph Lauren’s cross-functional Climate Risk Taskforce in developing and updating our Climate Risk Report on a semiannual basis. An
+example of a current regulatory risk related to climate change that has been included within Ralph Lauren’s risk management process is the move to low-Sulphur fuel oil (LSFO) across the
+globe as mandated by the International Maritime Organization (IMO) and all its member countries. LSFO is a higher-grade fuel, so it costs more to refine and therefore could cause an
+abrupt shift in energy costs, impacting our costs for shipping goods.
+Emerging
+regulation
+Relevant,
+always
+included
+Emerging regulations are assessed as part of Ralph Lauren’s cross-functional Climate Risk Taskforce in developing and updating our Climate Risk Report on a semiannual basis. An
+example of an emerging regulatory risk related to climate change that has been included within Ralph Lauren’s risk management process is a potential carbon tax. Ralph Lauren may
+become affected by carbon taxes and other pricing schemes that affect the cost of energy for facility operations and the cost of fuel for logistics.
+Technology Relevant,
+always
+included
+Technology risks are assessed as part of Ralph Lauren’s cross-functional Climate Risk Taskforce in developing and updating our Climate Risk Report on a semiannual basis. An example
+of a technology risk related to climate change that has been included within Ralph Lauren’s risk management process is deploying technologies necessary for achieving our greenhouse
+gas reduction commitments. We are investing in technologies that will allow us to reduce the carbon footprint of our products and supply chain in order to achieve our greenhouse gas
+reduction target.
+Legal
+Relevant,
+always
+included
+Legal risks are assessed as part of Ralph Lauren’s cross-functional Climate Risk Taskforce in developing and updating our Climate Risk Report on a semiannual basis. We have
+monitored legal risks related to climate change, such as not adhering to national climate laws, but we have not yet been affected by climate-related litigation.
+Market
+Relevant,
+always
+included
+Market risks are assessed as part of Ralph Lauren’s cross-functional Climate Risk Taskforce in developing and updating our Climate Risk Report on a semiannual basis. An example of a
+market risk related to climate change that has been included within Ralph Lauren’s risk management process is increased costs of raw materials. Chronic changes in weather can affect
+the availability, quality, and price of the raw materials that Ralph Lauren depends on.
+Reputation
+Relevant,
+always
+included
+Reputational risks are assessed as part of Ralph Lauren’s cross-functional Climate Risk Taskforce in developing and updating our Climate Risk Report on a semiannual basis. An example
+of a reputational risk related to climate change that has been included within Ralph Lauren’s risk management process is perceived inaction on climate change. We have responded to this
+risk by working to set meaningful commitments to combat climate change, including a science-based greenhouse gas reduction target and a commitment to source 100% renewable
+electricity from our owned and operated facilities.
+Acute
+physical
+Relevant,
+always
+included
+Acute physical risks are assessed as part of Ralph Lauren’s cross-functional Climate Risk Taskforce in developing and updating our Climate Risk Report on a semiannual basis. An
+example of an acute physical risk related to climate change that has been included within Ralph Lauren’s risk management process is business disruptions in our operations, sales
+channels, and manufacturing and distribution networks as a result of increased severity of extreme weather events such as cyclones and floods.
+Chronic
+physical
+Relevant,
+always
+included
+Chronic physical risks are assessed as part of Ralph Lauren’s cross-functional Climate Risk Taskforce in developing and updating our Climate Risk Report on a semiannual basis. An
+example of a chronic physical risk related to climate change that has been included within Ralph Lauren’s risk management process is reduced revenue from decreased production
+capacity (e.g., transport difficulties, supply chain interruptions) as a result of changes in precipitation patterns and extreme variability in weather patterns.
+C2.3
+(C2.3) Have you identified any inherent climate-related risks with the potential to have a substantive financial or strategic impact on your business?
+Yes
+C2.3a
+(C2.3a) Provide details of risks identified with the potential to have a substantive financial or strategic impact on your business.
+Identifier
+Risk 1
+Where in the value chain does the risk driver occur?
+Upstream
+Risk type & Primary climate-related risk driver
+Chronic physical
+Changes in precipitation patterns and extreme variability in weather patterns
+Primary potential financial impact
+Increased direct costs
+Climate risk type mapped to traditional financial services industry risk classification
+<Not Applicable>
+Company-specific description
+Chronic changes in weather can affect the availability, quality, and price of the raw materials that Ralph Lauren depends on. One of the major raw materials in Ralph
+Lauren’s products is cotton, which is a crop that is known to be affected by variation in annual rainfall and extreme precipitation, such as hail. In FY21, cotton consisted of
+over 80 percent of our material use. This may impact the communities and people that grow cotton, leading to a reduction in the supply of cotton and/or shifts in the key
+cotton-producing regions, which could affect material prices and quality.
+Time horizon
+Short-term
+Likelihood
+About as likely as not
+Magnitude of impact
+Medium
+Are you able to provide a potential financial impact figure?
+Yes, an estimated range
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+0
+CDP
+Page  of 43
+7
+
+
+================================================================================
+[PAGE 8 OF 43]
+================================================================================
+Potential financial impact figure – maximum (currency)
+70000000
+Explanation of financial impact figure
+Our Climate Risk Taskforce evaluated the financial impact of this risk according to the financial impact criteria used in our corporate Enterprise Risk Management (ERM)
+process across four tiers of impact to our revenue and operating margin. This risk has been assigned the lowest financial impact category, with an estimated revenue impact
+of less than $70 million. This estimate is based on our assessment of potential financial impacts from fluctuations in the cost of cotton. Recent internal analysis has shown
+that we could see a 20-30% increase in the cost of cotton from overall market shifts. However, these market shifts have not translated to increases to our costs of goods
+sold due to elements of our sourcing strategy mitigating this variability, including origin country shifts, and consolidation of materials and suppliers.
+Cost of response to risk
+Description of response and explanation of cost calculation
+The financial impact of this risk can be mitigated through our sourcing strategy. This includes strategies to achieve balanced diversified country allocation, near shoring, and
+localization of materials.
+Comment
+Identifier
+Risk 2
+Where in the value chain does the risk driver occur?
+Direct operations
+Risk type & Primary climate-related risk driver
+Acute physical
+Increased severity and frequency of extreme weather events such as cyclones and floods
+Primary potential financial impact
+Increased direct costs
+Climate risk type mapped to traditional financial services industry risk classification
+<Not Applicable>
+Company-specific description
+We have operations, including retail, distribution, and warehousing operations, in locations subject to natural disasters, such as severe weather caused by climate change,
+any of which could disrupt our operations. This includes major facilities in the East Coast of the United States, located in states such as New York, New Jersey, and North
+Carolina that have been subject to hurricanes, floods, and other extreme weather events in the past ten years. The occurrence of natural disasters or other catastrophic
+events may result in sudden disruptions in the business operations of the local economies affected, as well as of the regional and global economies. Any of these events
+could result in decreased demand for our products and disruptions in our sales channels and manufacturing and distribution networks, which could have a material adverse
+effect on our business, results of operations, and financial condition. Additionally, as storms become more severe and higher than average rainfall occurs as a result of
+climate change, the facilities operated by Ralph Lauren may experience business disruptions, expenses, and other financial impacts, as well as costs to protect and retrofit
+existing facilities to be more resilient to extreme weather events. This also includes an increase in philanthropic contributions to relief organizations in response to natural
+disasters that occur in countries where we operate.
+Time horizon
+Short-term
+Likelihood
+Likely
+Magnitude of impact
+Medium-low
+Are you able to provide a potential financial impact figure?
+Yes, an estimated range
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+0
+Potential financial impact figure – maximum (currency)
+70000000
+Explanation of financial impact figure
+Our Climate Risk Taskforce evaluated the financial impact of this risk according to the financial impact criteria used in our corporate Enterprise Risk Management (ERM)
+process across four tiers of impact to our revenue and operating margin. This risk has been assigned the lowest financial impact category, with an estimated revenue impact
+of less than $70 million. This estimate is based on our assessment of potential financial impacts from preparing for and responding to weather impacts on our operations.
+This includes historical and anticipated costs for physical resources (sandbags, plywood, flood barriers) and expenses associated with damage and repairs to our facilities
+as a result of extreme weather events.
+Cost of response to risk
+Description of response and explanation of cost calculation
+The financial impact of this risk can be mitigated through business teams pre-planning—both physical resources (sandbags, plywood, flood barriers) and financial resources
+to further prepare. Additionally, business considerations like impact-resistant windows at all locations within 50 miles of coastal areas will mitigate severe damage.
+Comment
+Identifier
+Risk 3
+Where in the value chain does the risk driver occur?
+Upstream
+CDP
+Page  of 43
+8
+
+
+================================================================================
+[PAGE 9 OF 43]
+================================================================================
+Risk type & Primary climate-related risk driver
+Acute physical
+Increased severity and frequency of extreme weather events such as cyclones and floods
+Primary potential financial impact
+Decreased revenues due to reduced production capacity
+Climate risk type mapped to traditional financial services industry risk classification
+<Not Applicable>
+Company-specific description
+An increasing frequency and severity of extreme weather events could affect Ralph Lauren’s logistics supply chain, including transporting goods from finished goods
+suppliers to distribution centers and then to customers. We rely upon third-party transportation providers for virtually all our product shipments, including shipments to and
+from our distribution centers, to our stores and shop-within-shops, and to our digital commerce and wholesale customers. Our utilization of these shipping services are
+subject to various risks, including severe weather caused by climate change. For example, in the past year several ships carrying our product have experienced extreme
+weather during Pacific Ocean crossings leading to delays in the supply chain and delivery of our products. Weather events that lead to transportation infrastructure damage
+and flooding cause disruptions that can affect revenue by decreasing transportation availability and increasing wages and fuel prices, which could result in higher
+transportation costs.
+Time horizon
+Short-term
+Likelihood
+Very likely
+Magnitude of impact
+Medium
+Are you able to provide a potential financial impact figure?
+Yes, an estimated range
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+0
+Potential financial impact figure – maximum (currency)
+70000000
+Explanation of financial impact figure
+Our Climate Risk Taskforce evaluated the financial impact of this risk according to the financial impact criteria used in our corporate Enterprise Risk Management (ERM)
+process across four tiers of impact to our revenue and operating margin. This risk has been assigned the lowest financial impact category, with an estimated revenue impact
+of less than $70 million.
+Cost of response to risk
+Description of response and explanation of cost calculation
+The financial impact of this risk is naturally limited and hedged by our product volume being split across multiple shipments and transport conveyances. Ralph Lauren has in
+place cargo insurance policies to mitigate financial loss to the organization.
+Comment
+Identifier
+Risk 4
+Where in the value chain does the risk driver occur?
+Upstream
+Risk type & Primary climate-related risk driver
+Acute physical
+Increased severity and frequency of extreme weather events such as cyclones and floods
+Primary potential financial impact
+Decreased revenues due to reduced production capacity
+Climate risk type mapped to traditional financial services industry risk classification
+<Not Applicable>
+Company-specific description
+Increasing frequency and severity of extreme weather events could affect the operations of Ralph Lauren's raw materials and finished goods suppliers and the communities
+in which they operate, including flooding and other weather-related disruptions at factories. Weather events that cause manufacturing infrastructure damage and flooding,
+cause disruptions in timing throughout the supply chain that can affect revenue by decreasing production capacity and reliability and increasing wages and fuel prices,
+which could result in higher manufacturing costs. We are working to consolidate our supply chain to mitigate these risks by developing local-to-local supply chains, with a
+goal for 80 percent of our business to be with strategic and key suppliers by 2025.
+Time horizon
+Short-term
+Likelihood
+About as likely as not
+Magnitude of impact
+Medium-low
+Are you able to provide a potential financial impact figure?
+CDP
+Page  of 43
+9
+
+
+================================================================================
+[PAGE 10 OF 43]
+================================================================================
+Yes, an estimated range
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+0
+Potential financial impact figure – maximum (currency)
+70000000
+Explanation of financial impact figure
+Our Climate Risk Taskforce evaluated the financial impact of this risk according to the financial impact criteria used in our corporate Enterprise Risk Management (ERM)
+process across four tiers of impact to our revenue and operating margin. This risk has been assigned the lowest financial impact category, with an estimated revenue impact
+of less than $70 million. This estimate is based on our assessment of potential financial impacts from fluctuations in the cost of goods sold.
+Cost of response to risk
+Description of response and explanation of cost calculation
+The financial impact of this risk can be mitigated through our sourcing strategy. This includes strategies to achieve balanced diversified country allocation, near shoring, and
+localization of materials.
+Comment
+Identifier
+Risk 5
+Where in the value chain does the risk driver occur?
+Direct operations
+Risk type & Primary climate-related risk driver
+Emerging regulation
+Carbon pricing mechanisms
+Primary potential financial impact
+Increased direct costs
+Climate risk type mapped to traditional financial services industry risk classification
+<Not Applicable>
+Company-specific description
+Ralph Lauren may become affected by carbon taxes and other pricing schemes that affect the cost of energy for logistics facility operations and the cost of fuel for transport.
+For example, the move to low-sulphur fuel oil (LSFO) across the globe is mandated by the International Maritime Organization (IMO) and all its member countries. While this
+regulation is not an unexpected impact to logistics suppliers, it can cause an abrupt shift in energy costs that are in turn passed along to Ralph Lauren in the form of higher
+transportation costs. Additionally, the United Kingdom’s recent Emissions Trading System (ETS) could result in higher energy costs for the 44 retail and office facilities we
+lease in the UK.
+Time horizon
+Short-term
+Likelihood
+Likely
+Magnitude of impact
+Low
+Are you able to provide a potential financial impact figure?
+Yes, an estimated range
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+0
+Potential financial impact figure – maximum (currency)
+70000000
+Explanation of financial impact figure
+Our Climate Risk Taskforce evaluated the financial impact of this risk according to the financial impact criteria used in our corporate Enterprise Risk Management (ERM)
+process across four tiers of impact to our revenue and operating margin. This risk has been assigned the lowest financial impact category, with an estimated revenue impact
+of less than $70 million. This estimate is based on our estimated exposure to a carbon tax of $43/MTCO2e assumed to apply to our scope 1 and 2 greenhouse gas
+emissions in the United States. The assumed carbon tax price is based on the proposed Baker-Shultz Carbon Dividends Plan.
+Cost of response to risk
+Description of response and explanation of cost calculation
+The financial impact of this risk can be mitigated by implementing our strategy to source 100% renewable power in our owned and operated facilities by 2025 and to achieve
+net zero GHG emissions by 2040. The financial impact of the move to low-sulphur fuel oil (LFSO) risk is mitigated through fuel formulas used by most carriers we contract
+with, which tends to smooth/delay extreme volatility of fuel price changes feeding through into our logistics costs.
+Comment
+Identifier
+Risk 6
+Where in the value chain does the risk driver occur?
+Upstream
+CDP
+Page 
+ of 43
+10
+
+
+================================================================================
+[PAGE 11 OF 43]
+================================================================================
+Risk type & Primary climate-related risk driver
+Technology
+Transitioning to lower emissions technology
+Primary potential financial impact
+Increased direct costs
+Climate risk type mapped to traditional financial services industry risk classification
+<Not Applicable>
+Company-specific description
+Ralph Lauren will need to deploy lower emissions technologies in order to achieve our greenhouse gas reduction commitments. This includes overcoming constraints in our
+facilities, lease, and supply chain arrangements to deploy energy efficiency technologies and source renewable power. For example, all of our 548 retail stores and 650
+concession-based shop-within-shops are located in leased buildings and all of our products are manufactured by contracted suppliers, limiting our ability to directly
+purchase and operate on-site renewable energy systems at our owned and operated facilities and in the factories that manufacture our products. We are investing in
+technologies that will allow us to reduce the carbon footprint of our products and supply chain in order to achieve our greenhouse gas reduction target. However, there are
+risks associated with the availability, costs, and efficacies of these technologies and how they align with our timeline and strategy for achieving our greenhouse reduction
+commitments.
+Time horizon
+Short-term
+Likelihood
+About as likely as not
+Magnitude of impact
+Medium-low
+Are you able to provide a potential financial impact figure?
+Yes, an estimated range
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+0
+Potential financial impact figure – maximum (currency)
+70000000
+Explanation of financial impact figure
+Our Climate Risk Taskforce evaluated the financial impact of this risk according to the financial impact criteria used in our corporate Enterprise Risk Management (ERM)
+process across four tiers of impact to our revenue and operating margin. This risk has been assigned the lowest financial impact category, with an estimated revenue impact
+of less than $70 million. This estimate is based on the anticipated additional business costs of identifying and deploying low-carbon technologies in our operations and our
+supply chain.
+Cost of response to risk
+Description of response and explanation of cost calculation
+The financial impact of this risk can be mitigated by implementing our strategy to achieve our science-based GHG reduction target and to achieve net zero GHG emissions
+by 2040, focused on sourcing renewable power in our operations and reducing emissions in our supply chain from factories and raw materials.
+Comment
+Identifier
+Risk 7
+Where in the value chain does the risk driver occur?
+Direct operations
+Risk type & Primary climate-related risk driver
+Reputation
+Increased stakeholder concern or negative stakeholder feedback
+Primary potential financial impact
+Decreased revenues due to reduced demand for products and services
+Climate risk type mapped to traditional financial services industry risk classification
+<Not Applicable>
+Company-specific description
+Ralph Lauren may be subject to decreased demand for our products due to perceived inaction on climate change. We have responded to this risk by working to set and
+achieve meaningful commitments to addressing climate change, including our science-based target to reduce our absolute scope 1, 2 and 3 greenhouse gas emissions 30
+percent by 2030. Renewable electricity is at the heart of our strategy and will become the sole source of power in our stores, offices and distribution centers by 2025.
+Time horizon
+Short-term
+Likelihood
+About as likely as not
+Magnitude of impact
+Low
+Are you able to provide a potential financial impact figure?
+Yes, an estimated range
+CDP
+Page 
+ of 43
+11
+
+
+================================================================================
+[PAGE 12 OF 43]
+================================================================================
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+0
+Potential financial impact figure – maximum (currency)
+70000000
+Explanation of financial impact figure
+Our Climate Risk Taskforce evaluated the financial impact of this risk according to the financial impact criteria used in our corporate Enterprise Risk Management (ERM)
+process across four tiers of impact to our revenue and operating margin. This risk has been assigned the lowest financial impact category, with an estimated revenue impact
+of less than $70 million. This estimate is based on a high-level estimate of the potential drop in our sales due to negative press coverage or other reputational impacts.
+Cost of response to risk
+Description of response and explanation of cost calculation
+The financial impact of this risk can be mitigated by implanting our strategy to achieve GHG reduction target and net zero emissions by 2040, focused on sourcing
+renewable power in our operations and reducing emissions in our supply chain from factories and raw materials.
+Comment
+C2.4
+(C2.4) Have you identified any climate-related opportunities with the potential to have a substantive financial or strategic impact on your business?
+Yes
+C2.4a
+(C2.4a) Provide details of opportunities identified with the potential to have a substantive financial or strategic impact on your business.
+Identifier
+Opp1
+Where in the value chain does the opportunity occur?
+Direct operations
+Opportunity type
+Resource efficiency
+Primary climate-related opportunity driver
+Use of more efficient production and distribution processes
+Primary potential financial impact
+Reduced direct costs
+Company-specific description
+As part of our commitment to reducing the energy use and GHG emissions from our direct operations, Ralph Lauren has been working to improve the efficiency of its
+facilities (including stores, offices, and distribution centers) for several years. Our strategies include investments in energy efficiency such as LED lighting at stores, energy
+management system services and equipment, and sourcing renewable power. For example, this year we initiated a multi-year investment in retrofitting over 200 of our Polo
+and Ralph Lauren branded stores in North America with energy efficient LED lighting. As we continue to deploy these strategies, we will realize cost savings in our direct
+operations through lower energy use and reduced labor and materials for replacement.
+Time horizon
+Medium-term
+Likelihood
+Likely
+Magnitude of impact
+Low
+Are you able to provide a potential financial impact figure?
+No, we do not have this figure
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+<Not Applicable>
+Potential financial impact figure – maximum (currency)
+<Not Applicable>
+Explanation of financial impact figure
+Ralph Lauren has not yet quantified the potential financial impact of this opportunity
+Cost to realize opportunity
+Strategy to realize opportunity and explanation of cost calculation
+Comment
+Identifier
+CDP
+Page 
+ of 43
+12
+
+
+================================================================================
+[PAGE 13 OF 43]
+================================================================================
+Opp2
+Where in the value chain does the opportunity occur?
+Upstream
+Opportunity type
+Products and services
+Primary climate-related opportunity driver
+Development of new products or services through R&D and innovation
+Primary potential financial impact
+Other, please specify (Increased revenues resulting from cost savings as well as new innovation and sustainable customer offerings)
+Company-specific description
+As Ralph Lauren’s suppliers become more innovative and able to drive efficiencies in processes, material usage, water, and energy consumption, there are opportunities to
+reduce cost. For example, this year we announced Color on Demand, a multi-phased system with a clear ambition to deliver the world’s first scalable zero wastewater
+cotton dyeing system. As part of the first phase of Color on Demand, Ralph Lauren optimized the use of ECOFAST™ Pure Sustainable Textile Treatment, a pre-treatment
+solution developed by Dow for cotton textiles. When used with existing dyeing equipment, ECOFAST™ Pure enables the use of up to 40% less water, 85% fewer
+chemicals, 90% less energy and a 60% reduction in carbon footprint compared to traditional cotton dyeing processes. We are integrating this process into our supply chain
+and will launch product using this technology later in 2021. By 2025, we aim to use the Color on Demand platform in more than 80% of our solid cotton products, leading to
+cost savings and GHG reductions in upstream production.
+Time horizon
+Short-term
+Likelihood
+Likely
+Magnitude of impact
+Medium
+Are you able to provide a potential financial impact figure?
+No, we do not have this figure
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+<Not Applicable>
+Potential financial impact figure – maximum (currency)
+<Not Applicable>
+Explanation of financial impact figure
+Ralph Lauren has not yet quantified the potential financial impact of this opportunity
+Cost to realize opportunity
+Strategy to realize opportunity and explanation of cost calculation
+Comment
+Identifier
+Opp3
+Where in the value chain does the opportunity occur?
+Direct operations
+Opportunity type
+Markets
+Primary climate-related opportunity driver
+Other, please specify (Contribute to positive reputation among stakeholders, investors, NGOs, consumers and employees through transparency and action)
+Primary potential financial impact
+Other, please specify (Increased revenues from positive brand reputation based on demonstration of company upholding its values and responsibilities as a corporate
+citizen)
+Company-specific description
+In FY21, we announced a goal of achieving net zero greenhouse gas emissions by 2040. We also began putting programs and policies in place to reduce emissions in the
+near term to continue progress towards our science-based target to reduce our absolute scope 1, 2, and 3 greenhouse gas emissions 30 percent by 2030. These and other
+future achievements could contribute to a positive reputation among stakeholders, investors, third-party ratings and rankings (e.g., CDP), consumers, and employees,
+leading to increased revenues from positive brand reputation.
+Time horizon
+Short-term
+Likelihood
+About as likely as not
+Magnitude of impact
+Low
+Are you able to provide a potential financial impact figure?
+No, we do not have this figure
+Potential financial impact figure (currency)
+<Not Applicable>
+CDP
+Page 
+ of 43
+13
+
+
+================================================================================
+[PAGE 14 OF 43]
+================================================================================
+Potential financial impact figure – minimum (currency)
+<Not Applicable>
+Potential financial impact figure – maximum (currency)
+<Not Applicable>
+Explanation of financial impact figure
+Ralph Lauren has not yet quantified the potential financial impact of this opportunity
+Cost to realize opportunity
+Strategy to realize opportunity and explanation of cost calculation
+Comment
+Identifier
+Opp4
+Where in the value chain does the opportunity occur?
+Direct operations
+Opportunity type
+Products and services
+Primary climate-related opportunity driver
+Development and/or expansion of low emission goods and services
+Primary potential financial impact
+Increased revenues resulting from increased demand for products and services
+Company-specific description
+Ralph Lauren’s climate strategy includes development of low emission products and materials. We are currently using and aiming to increase the use of recycled content for
+both synthetic and natural fibers, as well as cotton grown with less chemical inputs and irrigation water than conventional cotton. Our strategy also includes the use of
+regeneratively grown fibers and materials to support carbon drawdown by healthy soils. In FY21, 33% of our units produced met our sustainable material criteria. This year
+we announced a comprehensive circularity strategy to further advance sustainability goals. As part of the strategy, we are entering a partnership with McDonough
+Innovation to achieve Cradle to Cradle certification™, a globally recognized measure of safer, more sustainable products, with some of our most iconic products. We will
+also continue to invest in scalable technologies that will elevate the quality of recycled materials so that they are of the same high quality and feel as virgin material. In
+2020, Ralph Lauren invested in Natural Fiber Welding, a leading sustainable material science startup that is scaling a new industry standard for natural fiber recycling. As
+part of this commitment, Ralph Lauren will produce 100% recycled cotton products across our portfolio by 2025. As we develop new and expanded circular and low
+emissions products, this could result in a competitive advantage, brand preference, and brand loyalty among customers.
+Time horizon
+Medium-term
+Likelihood
+Likely
+Magnitude of impact
+Medium
+Are you able to provide a potential financial impact figure?
+No, we do not have this figure
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+<Not Applicable>
+Potential financial impact figure – maximum (currency)
+<Not Applicable>
+Explanation of financial impact figure
+Ralph Lauren has not yet quantified the potential financial impact of this opportunity
+Cost to realize opportunity
+Strategy to realize opportunity and explanation of cost calculation
+Comment
+C3. Business Strategy
+C3.1
+(C3.1) Have climate-related risks and opportunities influenced your organization’s strategy and/or financial planning?
+Yes
+C3.1b
+CDP
+Page 
+ of 43
+14
+
+
+================================================================================
+[PAGE 15 OF 43]
+================================================================================
+(C3.1b) Does your organization intend to publish a low-carbon transition plan in the next two years?
+Intention to publish a low-
+carbon transition plan
+Intention to include the transition
+plan as a scheduled resolution item
+at Annual General Meetings (AGMs)
+Comment
+Row
+1
+No, we do not intend to
+publish a low-carbon
+transition plan in the next two
+years
+<Not Applicable>
+We are committed to continuing to publish details of our climate strategy, including actions we are taking to assess climate risks and
+opportunities, mitigate climate risks, and reduce our greenhouse gas emissions. We will continue to publicly disclose this information
+through our annual Global Citizenship & Sustainability report and CDP Climate Change questionnaire.
+C3.2
+(C3.2) Does your organization use climate-related scenario analysis to inform its strategy?
+No, but we anticipate using qualitative and/or quantitative analysis in the next two years
+C3.2b
+(C3.2b) Why does your organization not use climate-related scenario analysis to inform its strategy?
+ Ralph Lauren has not used climate-related scenario analysis because we have prioritized other aspects of our climate strategy, including setting a science-based
+greenhouse gas reduction target and a detailed strategy for achieving the reductions needed to meet this target. In the past year, we have laid the groundwork for using
+climate-related scenario analysis to inform our strategy in the coming year. This includes establishing a Climate Risk Taskforce, comprised of members of our sustainability,
+internal audit/risk, logistics, sourcing, investor relations, store operations/asset protection, global risk, communications, finance, and legal teams. This taskforce will be
+responsible for preparing a semiannual Climate Risk Report and developing inputs for internal and external report on climate risk, including our Enterprise Risk Management
+(ERM) process. In anticipation of conducting climate-related scenario analysis in the next year, we have started using the GESI-CDP Scenario Analysis Toolkit and have
+begun collecting financial data needed for developing scenario analysis in the toolkit. We plan to work with a third-party to implement climate-related scenario analysis in the
+coming fiscal year and to then make this a standard part of our risk management process further into the future. 
+C3.3
+(C3.3) Describe where and how climate-related risks and opportunities have influenced your strategy.
+Have climate-
+related risks
+and
+opportunities
+influenced
+your strategy
+in this area?
+Description of influence
+Products
+and
+services
+Yes
+We take a holistic approach to sourcing preferred fibers and materials for our products, including the consideration of climate-related risks and opportunities. For example, our leather
+strategy has been influenced by several factors, including animal welfare, processing impacts, deforestation potential, and climate risks. Our goal in the medium-term (i.e., in the next
+four years) is to source leather from traceable supply chains where cattle ranchers are certified to animal welfare standards, verified deforestation-free, and the hides are processed by
+Leather Working Certified tanneries to achieve our target of sourcing 100 percent sustainably key materials by 2025. However, we recognize the limitations to this ideal supply chain
+based on current complexities and opaqueness of the leather commodity market and the lack of traceability infrastructure. While our goal remains the same, we have tailored our
+strategy to reach greater impact at scale and on a faster timeline than it would take to source all Ralph Lauren’s leather from traceable suppliers. To reach this scale and help the
+industry build capacity of deforestation-free and animal welfare certified leather, we will be investing in the Leather Impact Accelerator’s Impact Incentives. Decoupled from product, our
+investment in Impact Incentives will reduce deforestation of primary forests, preserving intact and functioning ecosystems that are vital to drawing down carbon. While we invest in
+Impact Incentives, we will also begin to source leather from regenerative ranchers. Although we will start with small volumes, we believe that regenerative grazing is essential to restoring
+grassland health and sequestering carbon to mitigate climate risks. We’re creating partnerships to procure hides where the ranching operations are verified to the Ecological Outcome
+Verification to ensure ecosystem regeneration.
+Supply
+chain
+and/or
+value
+chain
+Yes
+Based on our assessment of our GHG emissions and climate risks within our supply chain, we established a roadmap to drive significant GHG reductions and risk mitigation in our
+manufacturing. It has become clear that in order to deliver on our ambitious roadmap, we need to work closely with our suppliers to align their climate agenda, focus, and priorities with
+those of our organization. As part of this roadmap, in FY20, we launched our new Supplier Engagement Strategy to establish and maintain collaborative partnerships and systems that
+foster increased transparency and accountability. Our Supplier Engagement Strategy is built on our long-term strategic approach for value creation (i.e., over the next five to ten years).
+Our sustainability criteria include considerations that can be used in the future to mitigate risks from climate change in our supply base. For example, we strive for geographical diversity
+in our key and strategic suppliers, which will support our efforts to mitigate the risk of disruptions in our supply chain from climate change. With over 40% of our total scope 1, 2, and 3
+emissions coming from manufacturing, helping our manufacturers achieve significant emissions reductions will be critical for achieving our science-based GHG emissions target. As a
+first step in this process, we are engaging our suppliers through the Higg Index Facility Environmental Module (FEM) to monitor their energy use and emissions data to drive
+improvement. We also supported our largest fabric manufacturers to participate in the Mill impact Initiative run by the Apparel Impact Institute (Aii). The Initiative applies Clean by Design
+methodology and drives the reduction of environmental impacts in the manufacturing process, including the carbon, water, and chemical footprint of textile production. The result of the
+Higg Index FEM assessment including the energy performance and emissions is incorporated to the supplier evaluation scorecard (as part of the Supplier Engagement Strategy
+framework), which informs business decisions and supplier segmentation. We are working with Aii and other partners to support our suppliers in establishing an energy and carbon
+reduction strategy and roadmap to begin achieving emissions reductions in our supply chain in the near term (i.e., in the next two years).
+Investment
+in R&D
+Yes
+Our Product and Business Model Innovation Teams invest and drive adoption of technologies and platforms that reduce the use of virgin raw materials, increase energy and resource
+use efficiency, and prolong the life and durability of our products. These investments have the potential to lead to increased revenues resulting from cost savings as well as innovation in
+sustainable customer offerings. Through the execution of our strategy of R&D investment, we expect to realize these opportunities in the medium-term (i.e., in the next two to five years).
+This includes a minority investment in Natural Fiber Welding, Inc. (NFW), a leading sustainable material science startup that has revolutionized the reuse of natural fibers – such as
+cotton waste – into patented, high-performance materials. Through this investment, we are looking to expand our use of recycled post-consumer cotton, helping to advance our progress
+toward sustainable sourcing of 100% of our key materials, including cotton, by 2025 and integrating zero-waste principles across our business. Over time, the partnership will enable us
+to replace and reduce our reliance on non-biodegradable synthetics, such as polyester and nylon, while scaling the use of more sustainable and upcycled materials.
+Operations Yes
+Ralph Lauren may become affected by carbon taxes and other pricing schemes that affect the cost of purchased electricity consumed at our offices, stores, and distribution centers. At
+the same time, Ralph Lauren will need to deploy lower emissions technologies in order to achieve our greenhouse gas reduction commitments and to meet our commitment to source
+100% renewable electricity in our direct operations by 2025 (i.e., in the next four years). This includes overcoming constraints in our facilities and lease arrangements to deploy energy
+efficiency technologies and source renewable power. To mitigate potential increases in the costs non-renewable electricity and potential future carbon taxes applied to non-renewable
+electricity consumption, we have developed a global strategy for sourcing renewable electricity across our owned and operated facilities and have begun engaging various teams
+throughout our business to execute this strategy. A key aspect of our strategy will be signing one or more virtual power purchase agreements (VPPAs) in North America and Europe.
+When fully implemented, these long-term agreements will provide us with renewable energy attribute certificates equivalent to the majority of our annual global electricity consumption,
+mitigating the risk of carbon taxes from non-renewable electricity consumption. In evaluating VPPAs, we have convened a cross-functional working group that draws on the perspective
+and expertise of members of our sustainability, procurement, legal, tax, accounting, and finance business functions. To date, the contributions of the members of the working groups has
+informed the definition of key commercial terms and go-to-market strategy for sourcing a VPPA in North America and will continue to further evaluate specific projects and developers as
+our source strategy progresses.
+CDP
+Page 
+ of 43
+15
+
+
+================================================================================
+[PAGE 16 OF 43]
+================================================================================
+C3.4
+(C3.4) Describe where and how climate-related risks and opportunities have influenced your financial planning.
+Financial
+planning
+elements
+that have
+been
+influenced
+Description of influence
+Row
+1
+Direct
+costs
+Ralph Lauren may become affected by carbon taxes and other pricing schemes that affect the cost of purchased electricity consumed at our offices, stores, and distribution centers. At the same
+time, Ralph Lauren will need to deploy lower emissions technologies in order to achieve our greenhouse gas reduction commitments and to meet our commitment to source 100% renewable
+electricity in our direct operations by 2025 (i.e., in the next four years). This includes overcoming constraints in our facilities and lease arrangements to deploy energy efficiency technologies and
+source renewable power. To mitigate potential increases in the costs non-renewable electricity and potential future carbon taxes applied to non-renewable electricity consumption, we have
+developed a global strategy for sourcing renewable electricity across our owned and operated facilities and have begun building these associated costs into our financial budgets. A key aspect of
+our strategy will be signing one or more virtual power purchase agreements (VPPAs) in North America and Europe totally approximately 150,000 MWh per year. In evaluating VPPAs, our financial
+planning has considered the potential range of contract prices and expected monthly settlement prices to model anticipated costs across the 10-to-15-year lifetime of the agreement across a
+range of market scenarios. As we implement this strategy and look towards signing our first VPPA in the coming year, we will fully incorporate the anticipated financial performance of the selected
+project into our corporate budgets. When fully implemented, these long-term agreements will provide us with renewable energy attribute certificates equivalent to the majority of our annual global
+electricity consumption. The renewable energy attribute certificates will contribute to achieving our target of sourcing 100% renewable electricity and will help mitigate the risk of carbon taxes from
+non-renewable electricity consumption.
+C3.4a
+(C3.4a) Provide any additional information on how climate-related risks and opportunities have influenced your strategy and financial planning (optional).
+C4. Targets and performance
+C4.1
+(C4.1) Did you have an emissions target that was active in the reporting year?
+Absolute target
+C4.1a
+CDP
+Page 
+ of 43
+16
+
+
+================================================================================
+[PAGE 17 OF 43]
+================================================================================
+(C4.1a) Provide details of your absolute emissions target(s) and progress made against those targets.
+Target reference number
+Abs 1
+Year target was set
+2020
+Target coverage
+Company-wide
+Scope(s) (or Scope 3 category)
+Scope 1+2 (location-based) +3 (upstream & downstream)
+Base year
+2020
+Covered emissions in base year (metric tons CO2e)
+1861736
+Covered emissions in base year as % of total base year emissions in selected Scope(s) (or Scope 3 category)
+100
+Target year
+2030
+Targeted reduction from base year (%)
+30
+Covered emissions in target year (metric tons CO2e) [auto-calculated]
+1303215.2
+Covered emissions in reporting year (metric tons CO2e)
+1237017
+% of target achieved [auto-calculated]
+111.852414449023
+Target status in reporting year
+Underway
+Is this a science-based target?
+Yes, and this target has been approved by the Science-Based Targets initiative
+Target ambition
+1.5°C aligned
+Please explain (including target coverage)
+In FY20, we established a science-based target to reduce our absolute GHG emissions by 30 percent by 2030, compared to 2020 levels. This target includes reducing
+emissions from our operations (Scope 1 and 2) by sourcing 100 percent renewable electricity and reducing emissions from our supply chain (scope 3). Our goal was
+approved by the Science Based Targets initiative (SBTi), indicating that our ambitions align with reduction pathways to limit global temperature rise across the planet to
+1.5°C. The goal is consistent with our commitment as a signatory to the UN Fashion Industry Charter for Climate Action to achieve a 30 percent aggregate GHG emission
+reductions in scope 1, 2, and 3 of the Greenhouse Gas Protocol Standard by 2030, against a baseline of no earlier than 2015. The goal is also consistent with our
+membership in RE100. Setting a value chain carbon reduction target is a significant milestone for Ralph Lauren. We believe that companies must establish ambitious,
+science-based targets to ensure that society averts the disruptive effects of climate change. Our commitment represents our long-standing values, reflects the evolution of
+our thinking and will help decarbonize the fashion industry. We are in the process of implementing a detailed plan to achieve our goal by sourcing renewable energy for our
+operations and reducing the carbon intensity of raw materials, manufacturing, and production in our supply chain. Ralph Lauren’s annual carbon footprints are aligned with
+our fiscal years. The baseline year of our science-based target is aligned with FY20, which ran from April 2019 to March 2020. However, the target language of the SBTi
+specifies 2030 as the target year. Due to our reporting cycle being misaligned with the reporting year, we’re aiming to achieve our 2030 goal in our FY31 reporting, which will
+cover April 2030 to March 2031.
+C4.2
+(C4.2) Did you have any other climate-related targets that were active in the reporting year?
+Target(s) to increase low-carbon energy consumption or production
+Net-zero target(s)
+C4.2a
+CDP
+Page 
+ of 43
+17
+
+
+================================================================================
+[PAGE 18 OF 43]
+================================================================================
+(C4.2a) Provide details of your target(s) to increase low-carbon energy consumption or production.
+Target reference number
+Low 1
+Year target was set
+2020
+Target coverage
+Company-wide
+Target type: absolute or intensity
+Absolute
+Target type: energy carrier
+Electricity
+Target type: activity
+Consumption
+Target type: energy source
+Renewable energy source(s) only
+Metric (target numerator if reporting an intensity target)
+Percentage
+Target denominator (intensity targets only)
+<Not Applicable>
+Base year
+2020
+Figure or percentage in base year
+2
+Target year
+2025
+Figure or percentage in target year
+100
+Figure or percentage in reporting year
+6
+% of target achieved [auto-calculated]
+4.08163265306122
+Target status in reporting year
+Underway
+Is this target part of an emissions target?
+Yes, Abs1. In FY20, we established a science-based target to reduce our absolute GHG emissions by 30 percent by 2030, compared to 2020 levels. This target includes
+reducing emissions from our operations (Scope 1 and 2) by sourcing 100 percent renewable electricity.
+Is this target part of an overarching initiative?
+RE100
+Please explain (including target coverage)
+In FY20, we joined RE100 and committed to the goal of powering our owned and operated offices, distribution centers and stores with 100 percent renewable electricity by
+2025. As of FY21, 6% percent of electricity used in our operations was from renewable sources. We expect this number to significantly increase as we put our renewable
+energy strategy into action.
+C4.2c
+CDP
+Page 
+ of 43
+18
+
+
+================================================================================
+[PAGE 19 OF 43]
+================================================================================
+(C4.2c) Provide details of your net-zero target(s).
+Target reference number
+NZ1
+Target coverage
+Company-wide
+Absolute/intensity emission target(s) linked to this net-zero target
+Abs1
+Target year for achieving net zero
+2040
+Is this a science-based target?
+Yes, and we have committed to seek validation of this target by the Science Based Targets initiative in the next 2 years
+Please explain (including target coverage)
+We have set a target to achieve net zero emissions across our value chain by 2040. We are aligning our target with the 10 initial recommendations defined in the Science
+Based Targets Initiative’s Foundations for Science-Based Net-Zero Target Setting In The Corporate Sector. We acknowledge this is an emerging and changing space. We
+expect that we may have to adjust our strategy in response to new guidance and scientific findings. As part of the Race to Zero Campaign, we have answered the call of
+Science Based Targets Initiative’s Business Ambition for 1.5°C campaign by pledging to set and achieve a net-zero target in line with a 1.5°C future. We’ll also align our
+net-zero commitment with the Science Based Targets Initiative’s forthcoming net-zero standard.
+C4.3
+(C4.3) Did you have emissions reduction initiatives that were active within the reporting year? Note that this can include those in the planning and/or
+implementation phases.
+Yes
+C4.3a
+(C4.3a) Identify the total number of initiatives at each stage of development, and for those in the implementation stages, the estimated CO2e savings.
+Number of initiatives
+Total estimated annual CO2e savings in metric tonnes CO2e (only for rows marked *)
+Under investigation
+1
+0
+To be implemented*
+2
+0
+Implementation commenced*
+2
+0
+Implemented*
+3
+5319
+Not to be implemented
+0
+0
+C4.3b
+(C4.3b) Provide details on the initiatives implemented in the reporting year in the table below.
+Initiative category & Initiative type
+Low-carbon energy consumption
+Low-carbon electricity mix
+Estimated annual CO2e savings (metric tonnes CO2e)
+1448
+Scope(s)
+Scope 2 (market-based)
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+0
+Investment required (unit currency – as specified in C0.4)
+0
+Payback period
+No payback
+Estimated lifetime of the initiative
+1-2 years
+Comment
+We sourced renewable electricity at 38 of our stores, offices, and warehouses in Europe through bundled and unbundled Guarantee of Origin environmental attribute
+certificates.
+Initiative category & Initiative type
+CDP
+Page 
+ of 43
+19
+
+
+================================================================================
+[PAGE 20 OF 43]
+================================================================================
+Low-carbon energy consumption
+Liquid biofuels
+Estimated annual CO2e savings (metric tonnes CO2e)
+1743
+Scope(s)
+Scope 2 (market-based)
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+0
+Investment required (unit currency – as specified in C0.4)
+2776
+Payback period
+No payback
+Estimated lifetime of the initiative
+1-2 years
+Comment
+We sourced renewable electricity at our Nutley, NJ office through the annual purchase of 2,749 MWh of unbundled, Green-e Certified renewable energy certificates.
+Initiative category & Initiative type
+Energy efficiency in buildings
+Lighting
+Estimated annual CO2e savings (metric tonnes CO2e)
+2128
+Scope(s)
+Scope 2 (market-based)
+Voluntary/Mandatory
+Voluntary
+Annual monetary savings (unit currency – as specified in C0.4)
+320000
+Investment required (unit currency – as specified in C0.4)
+830000
+Payback period
+1-3 years
+Estimated lifetime of the initiative
+Ongoing
+Comment
+In FY21, we retrofitted 37 stores in North America to use energy-efficient LED lighting. Calculated based on estimates of the average annual store electricity savings from
+LED lighting retrofits.
+C4.3c
+(C4.3c) What methods do you use to drive investment in emissions reduction activities?
+Method
+Comment
+Dedicated budget for energy efficiency
+Dedicated budget for low-carbon product R&D
+Dedicated budget for other emissions reduction activities
+Internal incentives/recognition programs
+C4.5
+(C4.5) Do you classify any of your existing goods and/or services as low-carbon products or do they enable a third party to avoid GHG emissions?
+Yes
+C4.5a
+CDP
+Page 
+ of 43
+20
+
+
+================================================================================
+[PAGE 21 OF 43]
+================================================================================
+(C4.5a) Provide details of your products and/or services that you classify as low-carbon products or that enable a third party to avoid GHG emissions.
+Level of aggregation
+Group of products
+Description of product/Group of products
+We currently sell products that use recycled materials, including cotton, wool, cashmere, and polyester. These products can be classified as low-carbon products because
+manufacturing them requires less virgin raw materials. By using recycled material inputs, we avoid the need for virgin materials and therefore avoid the emissions
+associated with virgin material production.
+Are these low-carbon product(s) or do they enable avoided emissions?
+Low-carbon product
+Taxonomy, project or methodology used to classify product(s) as low-carbon or to calculate avoided emissions
+Other, please specify
+% revenue from low carbon product(s) in the reporting year
+% of total portfolio value
+<Not Applicable>
+Asset classes/ product types
+<Not Applicable>
+Comment
+C5. Emissions methodology
+C5.1
+(C5.1) Provide your base year and base year emissions (Scopes 1 and 2).
+Scope 1
+Base year start
+March 31 2019
+Base year end
+March 30 2020
+Base year emissions (metric tons CO2e)
+16248
+Comment
+Scope 2 (location-based)
+Base year start
+March 31 2019
+Base year end
+March 30 2020
+Base year emissions (metric tons CO2e)
+84224
+Comment
+Our base year Scope 2 (location-based) emissions have been updated since our 2020 CDP Climate Change response to reflect improved data methodology, including
+corrected electricity consumption at one of our distribution centers.
+Scope 2 (market-based)
+Base year start
+March 31 2019
+Base year end
+March 30 2020
+Base year emissions (metric tons CO2e)
+90380
+Comment
+Our base year Scope 2 (market-based) emissions have been updated since our 2020 CDP Climate Change response to reflect improved data methodology, including
+corrected electricity consumption at one of our distribution centers.
+C5.2
+(C5.2) Select the name of the standard, protocol, or methodology you have used to collect activity data and calculate emissions.
+The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (Revised Edition)
+CDP
+Page 
+ of 43
+21
+
+
+================================================================================
+[PAGE 22 OF 43]
+================================================================================
+C6. Emissions data
+C6.1
+(C6.1) What were your organization’s gross global Scope 1 emissions in metric tons CO2e?
+Reporting year
+Gross global Scope 1 emissions (metric tons CO2e)
+14681
+Start date
+<Not Applicable>
+End date
+<Not Applicable>
+Comment
+C6.2
+(C6.2) Describe your organization’s approach to reporting Scope 2 emissions.
+Row 1
+​Scope 2, location-based​
+We are reporting a Scope 2, location-based figure
+Scope 2, market-based
+We are reporting a Scope 2, market-based figure
+Comment
+C6.3
+(C6.3) What were your organization’s gross global Scope 2 emissions in metric tons CO2e?
+Reporting year
+Scope 2, location-based
+77854
+Scope 2, market-based (if applicable)
+78305
+Start date
+<Not Applicable>
+End date
+<Not Applicable>
+Comment
+C6.4
+(C6.4) Are there any sources (e.g. facilities, specific GHGs, activities, geographies, etc.) of Scope 1 and Scope 2 emissions that are within your selected reporting
+boundary which are not included in your disclosure?
+No
+C6.5
+(C6.5) Account for your organization’s gross global Scope 3 emissions, disclosing and explaining any exclusions.
+CDP
+Page 
+ of 43
+22
+
+
+================================================================================
+[PAGE 23 OF 43]
+================================================================================
+Purchased goods and services
+Evaluation status
+Relevant, calculated
+Metric tonnes CO2e
+808794
+Emissions calculation methodology
+Emissions from the Purchased Goods and Services are the largest contributor to Ralph Lauren’s Scope 3 footprint and comprise 3/4 of the total Scope 3 footprint.
+Emissions in this category were comprised of three main elements: raw materials, factory emissions, and other non-merch spend. Raw material weights were gathered and
+appropriate MSI Higg emission factors were used to find raw material emissions. Higg FEM factory energy data was gathered from 2019 and processed to find emissions
+from verified sources associated with Ralph Lauren (using a percentage of production for each factory dedicated to Ralph Lauren). An outlier process then cleaned the data
+and then the data was scaled up to account for all factories in Ralph Lauren’s supply chain. Finally, spend on other non-merch goods and services was classified by
+category according to Defra spend emission factors and emissions were then calculated.
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+Please explain
+Capital goods
+Evaluation status
+Not relevant, explanation provided
+Metric tonnes CO2e
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Capital Goods emissions are not relevant to Ralph Lauren because capital good purchasing has a negligible effect on Ralph Lauren’s carbon footprint and is already
+accounted for in Ralph Lauren's Purchased Goods & Services category, due to the way the data is available.
+Fuel-and-energy-related activities (not included in Scope 1 or 2)
+Evaluation status
+Relevant, calculated
+Metric tonnes CO2e
+19026
+Emissions calculation methodology
+Emissions from fuel-and-energy-related activities were calculated using energy data from Ralph Lauren’s scope 1 and 2 footprinting process. This process resulted in total
+energy used (MWh/GJ) of each fuel and electricity, which was then used for this calculation. Appropriate 2020 Defra WTT EFs were used for each fuel (natural gas, diesel,
+gas oil, heavy fuel oil, and propane) and for electricity per country.
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+Please explain
+Upstream transportation and distribution
+Evaluation status
+Not relevant, calculated
+Metric tonnes CO2e
+62349
+Emissions calculation methodology
+Emissions from T&D were calculated by splitting out total shipments by mode, using tonne-kilometer values. Defra 2020 emission factors were used for each mode.
+Emissions were assigned to this category if Ralph Lauren paid for the service, as per GHG Protocol guidance.
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+Please explain
+Waste generated in operations
+Evaluation status
+Relevant, calculated
+Metric tonnes CO2e
+179
+Emissions calculation methodology
+Waste emissions were calculated using a combination of estimations and primary data. For retail, distribution centers, and creative services, raw data was used that
+accounted for both the type of product and the final destination. For offices, waste was estimated using an EPA figure of average pounds of garbage per person per day in
+the office. Emission factors came from Defra 2020.
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+Please explain
+CDP
+Page 
+ of 43
+23
+
+
+================================================================================
+[PAGE 24 OF 43]
+================================================================================
+Business travel
+Evaluation status
+Relevant, calculated
+Metric tonnes CO2e
+3245
+Emissions calculation methodology
+Business travel synthesizes air travel, hotel stay, rental car use, rail travel, and charter flight data into a single emissions category. The largest contributor was air travel, by
+far. This data consists of total distance per flight, which was classified into a long-, short-, or medium-haul, multiplied by Defra emission factors. Other categories also used
+Defra emission factors per hotel night, rental car mile (assumed), rail mile, and charter flight gallon.
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+Please explain
+Employee commuting
+Evaluation status
+Relevant, calculated
+Metric tonnes CO2e
+15698
+Emissions calculation methodology
+Employee commuting emissions were calculated using a commuting emission factor based on an estimated round trip to work of 40 km using an average car for 5 days a
+week, 48 weeks a year. This EF takes fuel into account as well as distance and frequency of commute. This year, due to COVID-19, employees were split out by facility
+type and all commuting emissions for office employees was assumed to be zero, since office workers all switched to a remote work environment for the entirety of FY21.
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+Please explain
+Upstream leased assets
+Evaluation status
+Not relevant, explanation provided
+Metric tonnes CO2e
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Ralph Lauren does not lease any spaces which are not included in Scope 1&2 footprinting, so this category is deemed not relevant.
+Downstream transportation and distribution
+Evaluation status
+Relevant, calculated
+Metric tonnes CO2e
+12669
+Emissions calculation methodology
+Emissions from T&D were calculated by splitting out total shipments by mode, using tonne-kilometer values. Defra 2020 emission factors were used for each mode.
+Emissions were assigned to this category if Ralph Lauren did not pay for this service, as per GHG Protocol guidance.
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+Please explain
+Processing of sold products
+Evaluation status
+Not relevant, explanation provided
+Metric tonnes CO2e
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Ralph Lauren does not process any intermediate products prior to sale (all factory emissions are calculated in category 1, Purchased Goods and Services). Therefore, this
+category is not relevant for Ralph Lauren.
+CDP
+Page 
+ of 43
+24
+
+
+================================================================================
+[PAGE 25 OF 43]
+================================================================================
+Use of sold products
+Evaluation status
+Relevant, calculated
+Metric tonnes CO2e
+181655
+Emissions calculation methodology
+Use of Sold Products emissions were calculated by first classifying the number of units sold by Ralph Lauren in the reporting year into various categories, such as dress
+shirts, knits, or baby accessories. Then, each unit sold was given an average kWh/lifetime value due to washing, drying, and ironing (if applicable) by assuming its weight,
+the energy use of the average appliance, and the lifespan of the product. These energy values were converted to emissions using average emission factors for each split-
+out region (North America, Asia, and Europe) and the emissions were applied to each product category. Note that many goods sold by Ralph Lauren are not washed, dried,
+or ironed, so there are no emissions associated with them in this category.
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+Please explain
+End of life treatment of sold products
+Evaluation status
+Relevant, calculated
+Metric tonnes CO2e
+21941
+Emissions calculation methodology
+End of Life emissions were calculated using the raw material data that was obtained earlier for the Purchased Goods and Services category. These emissions were found
+by taking the total weight of each raw material and assuming that it goes 100% to landfill at the end of its life. A clothing to landfill emission factor was used from Defra
+2020.
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+Please explain
+Downstream leased assets
+Evaluation status
+Not relevant, explanation provided
+Metric tonnes CO2e
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Ralph Lauren does not own any assets leased to third parties, so this category is deemed not relevant for our carbon footprint.
+Franchises
+Evaluation status
+Relevant, calculated
+Metric tonnes CO2e
+18475
+Emissions calculation methodology
+Franchise emissions were calculated in the scope 1 and 2 footprinting process. This process accounted for each facility’s electricity, natural gas, other fuel, and refrigerant
+use. The franchise category was relevant for any licensed offices and retail stores identified during the scope 1 and 2 footprinting process. These emissions were deducted
+from scope 1 and 2 and used for this category instead, as they fall outside of Ralph Lauren’s operational control.
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+Please explain
+Investments
+Evaluation status
+Not relevant, explanation provided
+Metric tonnes CO2e
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Ralph Lauren does not have any significant investments, so this category is deemed to be not relevant.
+CDP
+Page 
+ of 43
+25
+
+
+================================================================================
+[PAGE 26 OF 43]
+================================================================================
+Other (upstream)
+Evaluation status
+Metric tonnes CO2e
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+Other (downstream)
+Evaluation status
+Metric tonnes CO2e
+<Not Applicable>
+Emissions calculation methodology
+<Not Applicable>
+Percentage of emissions calculated using data obtained from suppliers or value chain partners
+<Not Applicable>
+Please explain
+C6.7
+(C6.7) Are carbon dioxide emissions from biogenic carbon relevant to your organization?
+No
+C6.10
+CDP
+Page 
+ of 43
+26
+
+
+================================================================================
+[PAGE 27 OF 43]
+================================================================================
+(C6.10) Describe your gross global combined Scope 1 and 2 emissions for the reporting year in metric tons CO2e per unit currency total revenue and provide any
+additional intensity metrics that are appropriate to your business operations.
+Intensity figure
+0.000021129
+Metric numerator (Gross global combined Scope 1 and 2 emissions, metric tons CO2e)
+92986
+Metric denominator
+unit total revenue
+Metric denominator: Unit total
+4400800000
+Scope 2 figure used
+Market-based
+% change from previous year
+22.06
+Direction of change
+Increased
+Reason for change
+The ongoing high level of uncertainty and evolving situation surrounding COVID-19 has led to business disruptions that are reflected in our overall carbon footprint. These
+disruptions included temporary closures to our owned and operated stores. These disruptions led to lower energy use in our owned and operated stores that was less
+reduced than our change in revenue. Therefore, FY21 has a higher intensity of emissions per revenue.
+Intensity figure
+0.007905
+Metric numerator (Gross global combined Scope 1 and 2 emissions, metric tons CO2e)
+92986
+Metric denominator
+square foot
+Metric denominator: Unit total
+11761792
+Scope 2 figure used
+Market-based
+% change from previous year
+21.58
+Direction of change
+Decreased
+Reason for change
+The ongoing high level of uncertainty and evolving situation surrounding COVID-19 has led to business disruptions that are reflected in our overall carbon footprint. These
+disruptions included temporary closures to our owned and operated stores. These disruptions led to lower energy use in our owned and operated stores but did not have a
+significant impact on the total square footage of our owned and operated facilities. Therefore, FY21 has a lower intensity of emissions per square foot.
+C7. Emissions breakdowns
+C7.1
+(C7.1) Does your organization break down its Scope 1 emissions by greenhouse gas type?
+Yes
+C7.1a
+(C7.1a) Break down your total gross global Scope 1 emissions by greenhouse gas type and provide the source of each used greenhouse warming potential
+(GWP).
+Greenhouse gas
+Scope 1 emissions (metric tons of CO2e)
+GWP Reference
+CO2
+11446
+IPCC Fifth Assessment Report (AR5 – 100 year)
+CH4
+6
+IPCC Fifth Assessment Report (AR5 – 100 year)
+N2O
+6
+IPCC Fifth Assessment Report (AR5 – 100 year)
+HFCs
+3223
+IPCC Fifth Assessment Report (AR5 – 100 year)
+C7.2
+CDP
+Page 
+ of 43
+27
+
+
+================================================================================
+[PAGE 28 OF 43]
+================================================================================
+(C7.2) Break down your total gross global Scope 1 emissions by country/region.
+Country/Region
+Scope 1 emissions (metric tons CO2e)
+United States of America
+8850
+Canada
+645
+United Kingdom of Great Britain and Northern Ireland
+362
+Ireland
+18
+Austria
+69
+France
+176
+Germany
+135
+Netherlands
+41
+Italy
+953
+Spain
+110
+Portugal
+40
+Czechia
+3
+Greece
+5
+Turkey
+1
+Belgium
+57
+Switzerland
+210
+Sweden
+15
+Poland
+8
+Denmark
+4
+Brazil
+2
+Australia
+177
+China
+487
+China, Hong Kong Special Administrative Region
+502
+Japan
+962
+Republic of Korea
+525
+China, Macao Special Administrative Region
+14
+Malaysia
+71
+Singapore
+41
+Taiwan, Greater China
+179
+Viet Nam
+0.3
+Monaco
+0.02
+Bangladesh
+4
+India
+14
+C7.3
+(C7.3) Indicate which gross global Scope 1 emissions breakdowns you are able to provide.
+By business division
+By activity
+C7.3a
+(C7.3a) Break down your total gross global Scope 1 emissions by business division.
+Business division
+Scope 1 emissions (metric ton CO2e)
+Distribution Center
+2487
+Office
+3184
+Retail
+9010
+C7.3c
+(C7.3c) Break down your total gross global Scope 1 emissions by business activity.
+Activity
+Scope 1 emissions (metric tons CO2e)
+Stationary Combustion
+11458
+Refrigerant Leakage
+3223
+C7.5
+CDP
+Page 
+ of 43
+28
+
+
+================================================================================
+[PAGE 29 OF 43]
+================================================================================
+(C7.5) Break down your total gross global Scope 2 emissions by country/region.
+Country/Region
+Scope 2, location-based
+(metric tons CO2e)
+Scope 2, market-based
+(metric tons CO2e)
+Purchased and consumed electricity,
+heat, steam or cooling (MWh)
+Purchased and consumed low-carbon electricity, heat, steam or cooling
+accounted for in Scope 2 market-based approach (MWh)
+United States of America
+41362
+39672
+145115
+5364
+Canada
+774
+774
+9022
+0
+United Kingdom of Great
+Britain and Northern Ireland
+1440
+872
+4087
+3321
+Ireland
+88
+115
+316
+0
+Austria
+97
+92
+877
+34
+France
+153
+6
+938
+2072
+Germany
+849
+1235
+2618
+0
+Netherlands
+436
+551
+1163
+0
+Italy
+5775
+8062
+21096
+354
+Spain
+475
+562
+2133
+0
+Portugal
+221
+157
+793
+0
+Czechia
+22
+26
+54
+0
+Greece
+131
+142
+269
+0
+Turkey
+11
+11
+30
+0
+Belgium
+133
+131
+946
+75
+Switzerland
+34
+2
+1109
+1067
+Sweden
+3
+11
+294
+0
+Poland
+93
+106
+165
+0
+Denmark
+10
+31
+83
+0
+Brazil
+4
+4
+46
+0
+Australia
+1528
+1528
+2878
+0
+China
+7559
+7559
+14323
+0
+China, Hong Kong Special
+Administrative Region
+2372
+2372
+5135
+0
+Japan
+6482
+6482
+16586
+0
+Republic of Korea
+4665
+4665
+10926
+0
+China, Macao Special
+Administrative Region
+96
+96
+222
+0
+Malaysia
+765
+765
+1515
+0
+Singapore
+270
+270
+877
+0
+Taiwan, Greater China
+1908
+1908
+4119
+0
+Viet Nam
+2
+2
+6
+0
+Monaco
+0.1
+0.1
+0.3
+0
+Bangladesh
+17
+17
+50
+0
+India
+79
+79
+165
+0
+C7.6
+(C7.6) Indicate which gross global Scope 2 emissions breakdowns you are able to provide.
+By business division
+By activity
+C7.6a
+(C7.6a) Break down your total gross global Scope 2 emissions by business division.
+Business division
+Scope 2, location-based (metric tons CO2e)
+Scope 2, market-based (metric tons CO2e)
+Distribution Center
+15154
+17169
+Office
+6946
+5346
+Retail
+55753
+55790
+C7.6c
+(C7.6c) Break down your total gross global Scope 2 emissions by business activity.
+Activity
+Scope 2, location-based (metric tons CO2e)
+Scope 2, market-based (metric tons CO2e)
+Electricity Use
+77854
+78305
+C7.9
+CDP
+Page 
+ of 43
+29
+
+
+================================================================================
+[PAGE 30 OF 43]
+================================================================================
+(C7.9) How do your gross global emissions (Scope 1 and 2 combined) for the reporting year compare to those of the previous reporting year?
+Decreased
+C7.9a
+(C7.9a) Identify the reasons for any change in your gross global emissions (Scope 1 and 2 combined), and for each of them specify how your emissions compare
+to the previous year.
+Change in
+emissions
+(metric
+tons CO2e)
+Direction
+of change
+Emissions
+value
+(percentage)
+Please explain calculation
+Change in
+renewable
+energy
+consumption
+2748
+Decreased 2.6
+In FY21, we expanded the use of renewable energy throughout our operations. In FY20, we primarily used renewable electricity in France, as well as in Italy
+and Switzerland to a lesser extent – this year, we expanded to the United Kingdom, Belgium, and the United States. This lowered our market-based emissions
+due to shifting more electricity to a zero-emission factor. The formula used for calculating the percent reduction was (The change in emissions / previous year
+scope 1 & 2 emissions) x 100, or 2,748 MT CO2e / 106,629 MT CO2e x 100 = 2.6%.
+Other
+emissions
+reduction
+activities
+2128
+Decreased 2.2
+In FY21, we retrofitted 37 stores in North America to use energy-efficient LED lighting. Calculated based on estimates of the average annual store electricity
+savings from LED lighting retrofits. The formula used for calculating was (The change in emissions / previous year scope 1 & 2 emissions) x 100, or 2,128 MT
+CO2e / 106,629 MT CO2e x 100 = 2.2%.
+Divestment
+0
+No change 0
+Acquisitions
+0
+No change 0
+Mergers
+0
+No change 0
+Change in
+output
+8766
+Decreased 8.2
+The ongoing high level of uncertainty and evolving situation surrounding COVID-19 has led to business disruptions that are reflected in our overall carbon
+footprint. The formula used for calculating the percent reduction was (The change in emissions / previous year scope 1 & 2 emissions) x 100, or 8,766 MT
+CO2e / 106,629 MT CO2e x 100 = 8.2%
+Change in
+methodology
+0
+No change 0
+Change in
+boundary
+0
+No change 0
+Change in
+physical
+operating
+conditions
+0
+No change 0
+Unidentified
+0
+No change 0
+Other
+0
+No change 0
+C7.9b
+(C7.9b) Are your emissions performance calculations in C7.9 and C7.9a based on a location-based Scope 2 emissions figure or a market-based Scope 2
+emissions figure?
+Market-based
+C8. Energy
+C8.1
+(C8.1) What percentage of your total operational spend in the reporting year was on energy?
+More than 0% but less than or equal to 5%
+C8.2
+(C8.2) Select which energy-related activities your organization has undertaken.
+Indicate whether your organization undertook this energy-related activity in the reporting year
+Consumption of fuel (excluding feedstocks)
+Yes
+Consumption of purchased or acquired electricity
+Yes
+Consumption of purchased or acquired heat
+No
+Consumption of purchased or acquired steam
+No
+Consumption of purchased or acquired cooling
+No
+Generation of electricity, heat, steam, or cooling
+No
+C8.2a
+CDP
+Page 
+ of 43
+30
+
+
+================================================================================
+[PAGE 31 OF 43]
+================================================================================
+(C8.2a) Report your organization’s energy consumption totals (excluding feedstocks) in MWh.
+Heating value
+MWh from renewable sources
+MWh from non-renewable sources
+Total (renewable and non-renewable) MWh
+Consumption of fuel (excluding feedstock)
+HHV (higher heating value)
+0
+63078
+63078
+Consumption of purchased or acquired electricity
+<Not Applicable>
+12288
+184881
+197169
+Consumption of purchased or acquired heat
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+Consumption of purchased or acquired steam
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+Consumption of purchased or acquired cooling
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+Consumption of self-generated non-fuel renewable energy
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+<Not Applicable>
+Total energy consumption
+<Not Applicable>
+12288
+247959
+260247
+C8.2b
+(C8.2b) Select the applications of your organization’s consumption of fuel.
+Indicate whether your organization undertakes this fuel application
+Consumption of fuel for the generation of electricity
+No
+Consumption of fuel for the generation of heat
+Yes
+Consumption of fuel for the generation of steam
+No
+Consumption of fuel for the generation of cooling
+No
+Consumption of fuel for co-generation or tri-generation
+No
+C8.2c
+(C8.2c) State how much fuel in MWh your organization has consumed (excluding feedstocks) by fuel type.
+Fuels (excluding feedstocks)
+Natural Gas
+Heating value
+HHV (higher heating value)
+Total fuel MWh consumed by the organization
+62679
+MWh fuel consumed for self-generation of electricity
+<Not Applicable>
+MWh fuel consumed for self-generation of heat
+<Not Applicable>
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self-cogeneration or self-trigeneration
+<Not Applicable>
+Emission factor
+50.3
+Unit
+kg CO2e per GJ
+Emissions factor source
+EPA’s Emission Factors for Greenhouse Gas Inventories, 2018
+Comment
+Fuels (excluding feedstocks)
+Propane Gas
+Heating value
+HHV (higher heating value)
+Total fuel MWh consumed by the organization
+100
+MWh fuel consumed for self-generation of electricity
+<Not Applicable>
+MWh fuel consumed for self-generation of heat
+<Not Applicable>
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+CDP
+Page 
+ of 43
+31
+
+
+================================================================================
+[PAGE 32 OF 43]
+================================================================================
+<Not Applicable>
+MWh fuel consumed for self-cogeneration or self-trigeneration
+<Not Applicable>
+Emission factor
+75.2
+Unit
+kg CO2e per million Btu
+Emissions factor source
+EPA’s Emission Factors for Greenhouse Gas Inventories, 2018
+Comment
+Fuels (excluding feedstocks)
+Heavy Gas Oil
+Heating value
+HHV (higher heating value)
+Total fuel MWh consumed by the organization
+298
+MWh fuel consumed for self-generation of electricity
+<Not Applicable>
+MWh fuel consumed for self-generation of heat
+<Not Applicable>
+MWh fuel consumed for self-generation of steam
+<Not Applicable>
+MWh fuel consumed for self-generation of cooling
+<Not Applicable>
+MWh fuel consumed for self-cogeneration or self-trigeneration
+<Not Applicable>
+Emission factor
+63.1
+Unit
+kg CO2 per million Btu
+Emissions factor source
+EPA’s Emission Factors for Greenhouse Gas Inventories, 2018
+Comment
+C8.2e
+(C8.2e) Provide details on the electricity, heat, steam, and/or cooling amounts that were accounted for at a zero emission factor in the market-based Scope 2
+figure reported in C6.3.
+Sourcing method
+Unbundled energy attribute certificates, Guarantees of Origin
+Low-carbon technology type
+Hydropower
+Country/area of consumption of low-carbon electricity, heat, steam or cooling
+Switzerland
+MWh consumed accounted for at a zero emission factor
+1067
+Comment
+Sourcing method
+Unbundled energy attribute certificates, Guarantees of Origin
+Low-carbon technology type
+Low-carbon energy mix
+Country/area of consumption of low-carbon electricity, heat, steam or cooling
+Italy
+MWh consumed accounted for at a zero emission factor
+354
+Comment
+Sourcing method
+Unbundled energy attribute certificates, Guarantees of Origin
+CDP
+Page 
+ of 43
+32
+
+
+================================================================================
+[PAGE 33 OF 43]
+================================================================================
+Low-carbon technology type
+Low-carbon energy mix
+Country/area of consumption of low-carbon electricity, heat, steam or cooling
+France
+MWh consumed accounted for at a zero emission factor
+2072
+Comment
+Sourcing method
+Unbundled energy attribute certificates, Guarantees of Origin
+Low-carbon technology type
+Low-carbon energy mix
+Country/area of consumption of low-carbon electricity, heat, steam or cooling
+Austria
+MWh consumed accounted for at a zero emission factor
+34
+Comment
+Sourcing method
+Unbundled energy attribute certificates, Guarantees of Origin
+Low-carbon technology type
+Low-carbon energy mix
+Country/area of consumption of low-carbon electricity, heat, steam or cooling
+Belgium
+MWh consumed accounted for at a zero emission factor
+75
+Comment
+Sourcing method
+Unbundled energy attribute certificates, Guarantees of Origin
+Low-carbon technology type
+Low-carbon energy mix
+Country/area of consumption of low-carbon electricity, heat, steam or cooling
+United Kingdom of Great Britain and Northern Ireland
+MWh consumed accounted for at a zero emission factor
+3321
+Comment
+Sourcing method
+Unbundled energy attribute certificates, Renewable Energy Certificates (RECs)
+Low-carbon technology type
+Low-carbon energy mix
+Country/area of consumption of low-carbon electricity, heat, steam or cooling
+United States of America
+MWh consumed accounted for at a zero emission factor
+5364
+Comment
+C9. Additional metrics
+C9.1
+(C9.1) Provide any additional climate-related metrics relevant to your business.
+C10. Verification
+C10.1
+CDP
+Page 
+ of 43
+33
+
+
+================================================================================
+[PAGE 34 OF 43]
+================================================================================
+(C10.1) Indicate the verification/assurance status that applies to your reported emissions.
+Verification/assurance status
+Scope 1
+No third-party verification or assurance
+Scope 2 (location-based or market-based)
+No third-party verification or assurance
+Scope 3
+No third-party verification or assurance
+C10.2
+(C10.2) Do you verify any climate-related information reported in your CDP disclosure other than the emissions figures reported in C6.1, C6.3, and C6.5?
+No, we do not verify any other climate-related information reported in our CDP disclosure
+C11. Carbon pricing
+C11.1
+(C11.1) Are any of your operations or activities regulated by a carbon pricing system (i.e. ETS, Cap & Trade or Carbon Tax)?
+No, and we do not anticipate being regulated in the next three years
+C11.2
+(C11.2) Has your organization originated or purchased any project-based carbon credits within the reporting period?
+Yes
+C11.2a
+(C11.2a) Provide details of the project-based carbon credits originated or purchased by your organization in the reporting period.
+Credit origination or credit purchase
+Credit purchase
+Project type
+Landfill gas
+Project identification
+Wolf Creek (GA)
+Verified to which standard
+CAR (The Climate Action Reserve)
+Number of credits (metric tonnes CO2e)
+888
+Number of credits (metric tonnes CO2e): Risk adjusted volume
+888
+Credits cancelled
+Not relevant
+Purpose, e.g. compliance
+Voluntary Offsetting
+C11.3
+(C11.3) Does your organization use an internal price on carbon?
+No, but we anticipate doing so in the next two years
+C12. Engagement
+C12.1
+CDP
+Page 
+ of 43
+34
+
+
+================================================================================
+[PAGE 35 OF 43]
+================================================================================
+(C12.1) Do you engage with your value chain on climate-related issues?
+Yes, our suppliers
+Yes, our customers
+Yes, other partners in the value chain
+C12.1a
+(C12.1a) Provide details of your climate-related supplier engagement strategy.
+Type of engagement
+Compliance & onboarding
+Details of engagement
+Code of conduct featuring climate change KPIs
+Climate change is integrated into supplier evaluation processes
+% of suppliers by number
+100
+% total procurement spend (direct and indirect)
+100
+% of supplier-related Scope 3 emissions as reported in C6.5
+Rationale for the coverage of your engagement
+The success of our climate strategy requires engagement with our suppliers to reduce emissions throughout our supply chain. The first step to integrating our suppliers into
+our strategy is to ensure they are complying with our code of conduct. Each supplier is required to sign our Vendor Compliance Packet (VCP) which details our code of
+conduct. This legal document also features our sustainability policy. We incorporated our climate commitment into our supply chain and materials sustainability policy which
+therefore covers all suppliers and licensees.
+Impact of engagement, including measures of success
+We have committed to 30% reduction in absolute scope 1, 2, and 3 GHG emissions by 2030 compared to a FY20 baseline. Through our Vendor Compliance Packet (VCP),
+our suppliers are made aware of our sustainability policy, and are expected to comply with the requirements set therein as they sign the agreement. In FY21, we further
+integrated citizenship and sustainability into our Supplier Engagement Strategy (SES), and launched our Vendor Management System (VMS), a database that enables us to
+share information and opportunities with all tier 1 and tier 2 suppliers. As part of our Supplier Engagement Strategy, we integrated citizenship and sustainability into our
+supplier evaluation scorecard, where sustainable materials, chemical management, water stewardship, and climate performance now sit alongside other business-critical
+issues such as quality.
+Comment
+Type of engagement
+Information collection (understanding supplier behavior)
+Details of engagement
+Collect climate change and carbon information at least annually from suppliers
+% of suppliers by number
+47
+% total procurement spend (direct and indirect)
+77
+% of supplier-related Scope 3 emissions as reported in C6.5
+Rationale for the coverage of your engagement
+Through our Vendor Compliance Packet, we set a clear expectation that all facilities manufacturing products and materials for us track and report their environmental and
+climate impact data via the Higg Index Facilities Environment Module (FEM) on an annual basis. In FY21, we continued to engage closely with our suppliers and largest
+fabric manufacturers through the Higg Index FEM. We also rolled out third-party verification of the FEM data in accordance with protocols set by the Sustainable Apparel
+Coalition (SAC). While we require all suppliers to share Higg FEM verified-data with us, in FY21, 47% of the active factories representing 77% of total business spend had
+shared their data with us, including our strategic and key suppliers. We continue to invest in efforts to increase visibility to our supply chain climate and environmental data
+through expanding the adoption of Higg FEM and third party verification in partnership with the SAC and Higg Co.
+Impact of engagement, including measures of success
+We are committed to the industry’s collective effort to increase visibility of environmental and climate data monitoring and drive the adoption of manufacturing best practices.
+Through the Higg Index Facility Environmental Module (FEM), we gain visibility to our supplier’s environmental data on an annual basis. The data is used to monitor our
+footprint and progress made over time. In FY21, we collected data from 230 tier 1 facilities, representing 77 percent of our supply chain spend—an increase from 63 percent
+last year. Within the reporting facilities, 103 (50 percent of our supply chain spend) have completed data verification by a SAC-approved third party. Facilities scored an
+average of 46 points across all sections, with an average of 54 points in the water section and 71 in the energy section. During the year, we expanded our rollout of FEM to
+cover 31 mills, representing approximately 21 percent and 32 percent of our woven and knit fabric production, respectively. A total of 25 mills have completed third-party
+verification, with an average score of 49 points. We continue to invest in efforts to increase visibility to our supply chain climate and environmental data through expanding
+the adoption of Higg FEM and third party verification in partnership with the SAC and Higg Co.
+Comment
+Type of engagement
+Engagement & incentivization (changing supplier behavior)
+Details of engagement
+Run an engagement campaign to educate suppliers about climate change
+Climate change performance is featured in supplier awards scheme
+% of suppliers by number
+21
+CDP
+Page 
+ of 43
+35
+
+
+================================================================================
+[PAGE 36 OF 43]
+================================================================================
+% total procurement spend (direct and indirect)
+50
+% of supplier-related Scope 3 emissions as reported in C6.5
+Rationale for the coverage of your engagement
+Our Supplier Engagement Strategy (SES) aims to achieve mutual, long-term, positive impacts across our supply chain. This requires enduring partnerships based on
+transparency and trust. The SES provides a framework for us in building and maintaining these partnerships. It enables us to develop performance-based supply chain
+segmentation, as well as drive continuous improvement and positive impact that are based on shared transparency, accountability and value creation. In FY21, we
+communicate our expectations of responsible practices with all suppliers, and seek feedback from suppliers on their expectations on us as a responsible partner, starting
+with our strategic and key supplier segments, which represent a majority of our business. Currently, 50% of our business is with the strategic and key suppliers (21% of
+suppliers by number), and we are aiming to grow to 80% by 2025. We integrated sustainability into our supplier performance evaluation scorecard where climate, water,
+and chemical management performance sit alongside other business-critical issues such as quality. The sustainability performance is a substantial contributor to the
+supplier’s overall performance evaluation scorecard, which is used to inform business decisions and segmentation. In FY22, we plan to expand our SES and supplier
+performance evaluation to all suppliers.
+Impact of engagement, including measures of success
+Our Supplier Engagement Strategy (SES) provides a framework for us to build and maintain mutual, long-term partnerships with our suppliers. The performance-based
+supply chain segmentation takes into account the supplier’s performance in sustainability metrics, including climate, water stewardship, and sustainable chemicals
+management. Our strategic and key supplier segments are held to a higher degree of expectations and are incentivized through growing business and transparency. We
+rely on our partnership with the suppliers to drive reductions in our Scope 3 – manufacturing footprint to achieve our Science Based Target. We continue to invest in
+programs and initiatives that support our supply partners in setting up and implementing sustainability and climate roadmap that aligns with or exceed our goals. We are
+committed through the UNFCCC Fashion Industry Charter for Climate Action to continuously pursue energy efficiency measures and renewable energy in our value chain.
+We also partner with organizations including Aii to support the implementation of low carbon manufacturing initiatives, through which, we collaborate with our suppliers and
+support them on establishing an energy and carbon reduction roadmap as part of the initiatives. Our Product and Business Model Innovation Teams invest and drive
+adoption of technologies and platforms that increase energy and resource use efficiency and prolong the life and durability of our products.
+Comment
+Type of engagement
+Innovation & collaboration (changing markets)
+Details of engagement
+Run a campaign to encourage innovation to reduce climate impacts on products and services
+% of suppliers by number
+47
+% total procurement spend (direct and indirect)
+77
+% of supplier-related Scope 3 emissions as reported in C6.5
+Rationale for the coverage of your engagement
+Ralph Lauren understands that our actions alone are not enough to address climate-related strategies throughout our value chain. We partner with industry coalitions
+including the Sustainable Apparel Coalition, Apparel Impact Institute, UNFCCC Fashion Industry Charter for Climate Action, and the Zero Discharge of Hazardous
+Chemicals (ZDHC) to further our efforts in collaboration with our suppliers to reduce climate and environmental impact from manufacturing practices. While we require all
+suppliers to share climate and environmental impact data with us, in FY21, 47% of the active factories representing 77% of total business spend had shared their data with
+us, including our strategic and key suppliers. We continue to invest in efforts to increase visibility to our supply chain climate and environmental data through expanding the
+adoption of Higg FEM and third party verification in partnership with the SAC and Higg Co. The collaborative programs support our suppliers in climate and environmental
+data tracking and monitoring, and in establishing energy and carbon reduction roadmap
+Impact of engagement, including measures of success
+We have committed to 30% reduction in absolute scope 1, 2, and 3 GHG emissions by 2030 compared to a FY20 baseline. We work closely with our suppliers to increase
+visibility into climate and environmental data tracking and monitoring through the Higg Index FEM and ZDHC tools, and in establishing an energy and carbon reduction
+roadmap through the collaborative programs with our industry partners. Our Product and Business Model Innovation Teams invest and drive adoption of technologies and
+platforms that increase energy and resource use efficiency and prolong the life and durability of our products. In FY21, we brought together four leading innovators in their
+respective fields—Dow, Jeanologia, Huntsman Textile Effects and COROB—to reimagine each stage of the coloring process and join a shared mission to create a more
+sustainable and efficient system for cotton dyeing. The result is Color on Demand. This new multi-phased platform is composed of a set of innovative technologies that will
+enable the recycling and reuse of all water from the dyeing process, establishing the world’s first scalable zero wastewater cotton dyeing system. In addition to significant
+water savings, Color on Demand dramatically reduces the amount of chemicals, dye, time and energy used in the cotton dyeing process. As part of the first phase of Color
+on Demand, we optimized the use of ECOFASTTM Pure—a pre-treatment solution for cotton garments, developed by Dow. When used with existing dyeing equipment,
+ECOFAST™ Pure enables the use of up to 40 percent less water, 85 percent fewer chemicals, 90 percent less energy and a 60 percent reduction in carbon footprint
+compared to traditional cotton dyeing processes. In partnership with Dow, we are releasing a detailed manual about ECOFAST™ Pure to encourage industry adoption and
+help standardize more sustainable cotton dyeing. By 2025, we aim to use the Color on Demand platform in more than 80 percent of our solid cotton products.
+Comment
+C12.1b
+CDP
+Page 
+ of 43
+36
+
+
+================================================================================
+[PAGE 37 OF 43]
+================================================================================
+(C12.1b) Give details of your climate-related engagement strategy with your customers.
+Type of engagement
+Education/information sharing
+Details of engagement
+Run an engagement campaign to education customers about your climate change performance and strategy
+% of customers by number
+% of customer - related Scope 3 emissions as reported in C6.5
+100
+Portfolio coverage (total or outstanding)
+<Not Applicable>
+Please explain the rationale for selecting this group of customers and scope of engagement
+In March 2021, we announced a comprehensive circularity strategy to further advance our sustainability goals, especially our target to reduce carbon emissions throughout
+our value chain. One pillar of our circularity strategy is to create circular consumer experiences. As we advance our strategy, we are inviting our customers to learn more
+about steps we are taking now and in the future to reduce the climate impact of our products and operations. In March 2021, we launched our consumer-facing Design the
+Change website as part of our global e-commerce website. This site allows customers to explore Ralph Lauren’s sustainability commitments, including our greenhouse gas
+reduction and renewable energy targets, and highlights products using lower-impact materials and circular design and business models. This campaign is designed to reach
+all of our customers through our global e-commerce site and engage all customers who are interested in learning more about what the company is doing to address climate
+change.
+Impact of engagement, including measures of success
+The impact of this engagement will be measured based on customer traffic to the Design the Change site. As we implement our climate strategy and expand circular
+consumer experiences, we will measure activity and engagement to understand customer knowledge of our climate change performance and strategy. We will use data on
+the traffic and engagement on our Design the Change site to identify further opportunities for communicating our climate change response and strategy as well as directing
+customers to lower-impact consumer experiences. For example, we could use engagement with customers through this initiative to improve and expand low-carbon
+products and services such as products utilizing recycled materials, and to improve customer awareness of these products and services.
+C12.1d
+(C12.1d) Give details of your climate-related engagement strategy with other partners in the value chain.
+We regularly engage with our peers and other organizations through collaborative projects and programs to leverage collective action to address climate change impacts in
+our value chain. In particular, we have focused on collaborative initiatives to reduce emissions from our raw materials sourcing, manufacturing, and processing, and
+transportation and distribution, as these comprise the largest sources of emissions in our value chain. This year, we were actively involved in a number of initiatives driving
+collective action to address climate change impacts in our value chain, including the Sustainable Apparel Coalition, Apparel Impact Institute, UN Fashion Industry Charter for
+Climate Action, and the G7 Fashion Pact. Through engagement with these initiatives, we have come to better understand that our actions alone are not enough to address
+climate-related strategies throughout our value chain. For example, as signatories to the UN Fashion Industry Charter for Climate Action, we have committed to establishing a
+decarbonization pathway and continuously pursue energy efficiency measures and renewable energy in our value chain. The challenge we face, along with our fellow
+Fashion Pact signatories, is finding efficient and effective methods for decarbonization in our supply chain, including with suppliers where we are one of several customers.
+Building off the Fashion Charter’s guidance for supply chain decarbonization, we analyzed our GHG emissions and climate risks within our supply chain and established a
+roadmap to drive significant GHG reductions in our manufacturing. It has become clear that in order to deliver on our ambitious roadmap, we need to work closely with our
+suppliers to align their climate agenda, focus, and priorities with ours. As a result of this analysis and engagement with the Fashion Charter and the Apparel Impact Institute,
+we are drawing on guidance and programs from these partners to support our suppliers in establishing an energy and carbon reduction strategy and roadmap. We expect that
+these suppliers’ strategies will be crucial in ensuring we achieve our target of a 30% reduction in absolute scope 1, 2, and 3 GHG emissions by 2030 compared to a FY20
+baseline. We are therefore expanding our collaboration with suppliers through collective action programs that accelerate the standardized approach to setting carbon targets
+and low-carbon action plans at the factory level and help them build capability to implement them. We believe this will further empower our supply partners to establish and
+implement climate strategies aligned with our climate objectives.
+C12.3
+(C12.3) Do you engage in activities that could either directly or indirectly influence public policy on climate-related issues through any of the following?
+Direct engagement with policy makers
+Trade associations
+C12.3a
+CDP
+Page 
+ of 43
+37
+
+
+================================================================================
+[PAGE 38 OF 43]
+================================================================================
+(C12.3a) On what issues have you been engaging directly with policy makers?
+Focus of
+legislation
+Corporate
+position
+Details of engagement
+Proposed legislative solution
+Other,
+please
+specify
+(Emissions)
+Support
+As part of the We Are Still In initiative, Ralph Lauren signed an open letter to the
+incoming U.S. Biden-Harris presidential administration along with hundreds of other
+U.S. communities, businesses, and institutions. The letter speaks to high-level climate
+actions that the incoming administration can take, including and beyond re-entry into
+the Paris Climate Agreement, and makes calls for enhanced partnership and
+leadership across federal and non-federal entities. It places an emphasis on job
+creation, economic recovery, and just and equitable outcomes.
+We support the specific policy actions in the letter, including: (1) rejoin the Paris Agreement on day
+one, leverage diplomatic partnerships to finance and encourage ambition, and re-engage with the
+rest of the world on a global solution to the climate crisis; (2) put forward an ambitious and
+equitable nationally determined contribution to the Paris Agreement, with a science-based target for
+2030 that takes community and institutional efforts and perspectives into consideration; and (3)
+commit the United States to a trajectory of net zero emissions by 2050 or sooner, and implement
+policies that put us on a path to achieving that goal.
+Other,
+please
+specify
+(Emissions)
+Support
+Ralph Lauren, along with over 300 other businesses and investors with a footprint in
+the United States, signed an open letter to U.S. President Joe Biden indicating our
+support for the Biden administration’s commitment to climate action, and for setting a
+federal climate target to reduce emissions. The letter was published ahead of the
+Biden administration’s announcement of a 2030 emissions reduction target, or
+Nationally Determined Contribution (NDC) pursuant to the Paris Agreement, in the
+lead-up to the Leaders Summit on Climate.
+We support the U.S. Government adopting a national target of reducing greenhouse gas emissions
+by at least 50% below 2005 levels by 2030.
+Clean
+energy
+generation
+Support
+As part of our membership in the Renewable Energy Buyers Alliance, Ralph Lauren
+signed a policy statement recommending federal policy priorities for the incoming U.S.
+Biden-Harris presidential administration to expand access to clean energy for all
+energy buyers.
+We support the policy actions in the statement, including three specific policy recommendations: (1)
+improve existing wholesale power markets and expand wholesale markets; (2) harmonize current
+patchwork of clean energy policies; and (3) increase federal funding for clean energy technology
+research, development, and demonstration from $8.9B to $25B by 2025.
+Clean
+energy
+generation
+Support
+Along with other signatories of the United Nations Fashion Industry Charter for Climate
+Action, Ralph Lauren signed a letter addressed to the Prime Minister of Vietnam to
+approve Vietnam’s Direct Power Purchase Agreement (DPPA) Pilot Program, an
+initiative that the government of Vietnam has considered and developed over the past
+few years, but has not been fully approved.
+We support the DPPA Pilot program as it would help accelerate adoption of renewable in Vietnam
+by our suppliers.
+C12.3b
+(C12.3b) Are you on the board of any trade associations or do you provide funding beyond membership?
+Yes
+C12.3c
+(C12.3c) Enter the details of those trade associations that are likely to take a position on climate change legislation.
+Trade association
+American Apparel and Footwear Association
+Is your position on climate change consistent with theirs?
+Consistent
+Please explain the trade association’s position
+Representing more than 1,000 world famous name brands, the American Apparel & Footwear Association (AAFA) is the trusted public policy and political voice of the
+apparel and footwear industry, its management and shareholders, its four million U.S. workers, and its contribution of $384 billion in annual U.S. retail sales. The AAFA
+holds that the best way to reduce carbon emissions and therefore climate change is to pursue multilateral negotiations that would shape a post-Kyoto approach to global
+climate change policy.
+How have you influenced, or are you attempting to influence their position?
+Ralph Lauren’s Chief Product and Sustainability Officer is currently a member of the Executive Committee of the Board of Directors for AAFA and, as part of that role,
+participates in discussions of how AAFA supports apparel and footwear industry in addressing sustainability and climate change.
+Trade association
+Apparel Impact Institute
+Is your position on climate change consistent with theirs?
+Consistent
+Please explain the trade association’s position
+The Apparel Impact Institute (Aii) is dedicated to identifying, funding, and scaling proven quality solutions to accelerate positive impact in the apparel and footwear industry.
+Aii is working to meet the industry’s need to reduce environmental impacts, including supporting the United Nations’ goal to achieve carbon neutrality by 2050.
+How have you influenced, or are you attempting to influence their position?
+We have not influenced their position and are not attempting to influence their position
+Trade association
+The Better Cotton Initiative
+Is your position on climate change consistent with theirs?
+Consistent
+Please explain the trade association’s position
+BCI supports farmers in using water efficiently to consume and pollute less water, thus achieving greater yields and building their resilience to climate change while
+promoting fair use and allocation of water resources amongst users beyond the farm and up to the watershed level. BCI supports farmers in developing better
+understanding and use of the soil. A healthy soil leads to significant increases in the quality and quantity of yields and to large cost reductions in fertilizers, pesticides, and
+labor. It also serves as a main asset for climate resilience.
+How have you influenced, or are you attempting to influence their position?
+We have not influenced their position and are not attempting to influence their position
+CDP
+Page 
+ of 43
+38
+
+
+================================================================================
+[PAGE 39 OF 43]
+================================================================================
+Trade association
+Ellen MacArthur Foundation
+Is your position on climate change consistent with theirs?
+Consistent
+Please explain the trade association’s position
+The Ellen MacArthur Foundation has been focused since its founding in 2010 on working with businesses, government, and academia to accelerate the transition to a
+circular economy. The Make Fashion Circular initiative brings together leaders from across the fashion industry, including brands, cities, philanthropists, NGOs, and
+innovators. Its aim is to stimulate the level of collaboration and innovation necessary to create a new textiles economy, aligned with the principles of the circular economy.
+The circular economy envisioned by the initiative tackles the root causes of global challenges such as climate change, biodiversity loss, and pollution, while creating
+opportunities for better growth. It is underpinned by three principles, all led by design: eliminate waste and pollution, keep products and materials in use, and regenerate
+natural systems.
+How have you influenced, or are you attempting to influence their position?
+We have not influenced their position and are not attempting to influence their position
+Trade association
+G7 Fashion Pact
+Is your position on climate change consistent with theirs?
+Consistent
+Please explain the trade association’s position
+The Fashion Pact members commit to implement Science-Based Targets (SBTs) on climate and drive corporate actions that are consistent with a 1.5-degree pathway
+through a ‘just transition’ to achieve net-zero by 2050.
+How have you influenced, or are you attempting to influence their position?
+Our CEO serves on the Steering Committee of the G7 Fashion Pact, helping the organization set priorities, ensure appropriate allocation of resources, and advocating for
+increased sustainability standards and expectations within our industry across all three of the Fashion Pacts pillars: climate, biodiversity, and oceans. Our Chief Product
+and Sustainability Officer serves on the Operating Committee of the G7 Fashion Pact, helping to implement the priorities set by the Steering Committee, establishing
+working groups, and supporting outreach to external partners and experts across all three of the Fashion Pacts pillars: climate, biodiversity, and oceans.
+Trade association
+Renewable Energy Buyers Alliance (REBA)
+Is your position on climate change consistent with theirs?
+Consistent
+Please explain the trade association’s position
+REBA’s Policy Innovation team enhances the ability of buyers to engage on policy by providing research, analysis, and actionable information so they are equipped with an
+understanding of the role and importance of policy to their own sustainability and clean energy goals. The Policy Innovation team also educates policymakers and other key
+stakeholders about policy needs of large energy buyers, so that they are reflected in their decisions.
+How have you influenced, or are you attempting to influence their position?
+We have not influenced their position and are not attempting to influence their position
+Trade association
+RE100
+Is your position on climate change consistent with theirs?
+Consistent
+Please explain the trade association’s position
+RE100 members look to policymakers to enact the following policy measures to support corporate sourcing of renewable electricity: 1. Create a level playing field on which
+renewable electricity competes fairly with fossil-fuel electricity and reflects the cost-competitiveness of renewable electricity. 2. Remove regulatory barriers and implement
+stable frameworks to facilitate the uptake of corporate renewable electricity sourcing. 3. Create an electricity market structure that allows for direct trade between corporate
+buyers of all sizes and renewable electricity suppliers. 4. Work with utilities or electricity suppliers to provide options for corporate renewable electricity sourcing. 5. Promote
+direct investments in on-site and off-site renewable electricity projects 6. Support a credible and transparent system for issuing, tracking, and certifying competitively priced
+Environmental Attribute Certificates (EACs).
+How have you influenced, or are you attempting to influence their position?
+We have not influenced their position and are not attempting to influence their position
+Trade association
+Sustainable Apparel Coalition
+Is your position on climate change consistent with theirs?
+Consistent
+Please explain the trade association’s position
+As a global industry association, the SAC plays a thought leadership role in international collaboration and policy efforts to further the environmental and social vision of the
+organization. The SAC takes an active role in shaping global policy that will benefit the health of our planet and the well-being of the individuals and communities that make
+up the global value chain.
+How have you influenced, or are you attempting to influence their position?
+We have not influenced their position and are not attempting to influence their position
+Trade association
+Textile Exchange
+Is your position on climate change consistent with theirs?
+Consistent
+Please explain the trade association’s position
+CDP
+Page 
+ of 43
+39
+
+
+================================================================================
+[PAGE 40 OF 43]
+================================================================================
+Textile Exchange is a global nonprofit that advocates for greater use of preferred fiber and materials in the textile industry. The group develops, manages, and promotes a
+suite of leading industry standards, as well as collects and publishes critical industry data and insights that enable brands and retailers to measure, manage, and track their
+use of preferred fiber and materials. With their Climate+ strategy, Textile Exchange is driving urgent climate action on textile fiber and materials with a goal of 45% reduced
+CO2 emissions from textile fiber and material production by 2030.
+How have you influenced, or are you attempting to influence their position?
+We have not influenced their position and are not attempting to influence their position
+Trade association
+United Nations Fashion Industry Charter for Climate Action
+Is your position on climate change consistent with theirs?
+Consistent
+Please explain the trade association’s position
+The Policy Engagement working group of the Fashion Industry Charter works to create a roadmap towards adherence to the following Charter Principles: • Together with
+other stakeholders, develop a strategy including targets and plans to advocate for the development of policies and laws to empower climate action in the fashion industry,
+especially in supply chains; • Establish a dialogue with governments in key countries to enable renewable energy, energy efficiency and the necessary infrastructure for a
+systemic change beyond the fashion industry.
+How have you influenced, or are you attempting to influence their position?
+We have not influenced their position and are not attempting to influence their position
+Trade association
+Zero Discharge of Hazardous Chemicals
+Is your position on climate change consistent with theirs?
+Consistent
+Please explain the trade association’s position
+The Zero Discharge of Hazardous Chemicals (ZDHC) Programme is a global coalition of leading international brands in the apparel and footwear sector. ZDHC’s mission is
+to enable brands and retailers in the textile, apparel, and footwear industries to implement sustainable chemical management best practice across the value chain. Through
+collaborative engagement, standard setting, and implementation, ZDHC works to advance towards zero discharge of hazardous chemicals.
+How have you influenced, or are you attempting to influence their position?
+We have not influenced their position and are not attempting to influence their position
+C12.3f
+(C12.3f) What processes do you have in place to ensure that all of your direct and indirect activities that influence policy are consistent with your overall climate
+change strategy?
+Our Corporate Senior Vice President, Global Corporate Communication & Public Affairs has oversight for direct and indirect engagement with policy makers and our
+relationships with trade associations. She evaluates and approves any direct engagement with policy makers on climate change and directs any policy engagement through
+trade associations like the American Apparel and Footwear Association. In this capacity, she is positioned to identify and resolve any conflicts between our overall climate
+strategy and the policy priorities of our trade associations. Additionally, our Chief Product and Sustainability Officer is a member of the Executive Committee of the Board of
+Directors of the American Apparel and Footwear Association. In that role, she has visibility into and influence over all policy positions taken by the organizations, including
+those directly related to climate and sustainability and those focused on other topics that could have indirect climate-related impacts.  
+C12.4
+CDP
+Page 
+ of 43
+40
+
+
+================================================================================
+[PAGE 41 OF 43]
+================================================================================
+(C12.4) Have you published information about your organization’s response to climate change and GHG emissions performance for this reporting year in places
+other than in your CDP response? If so, please attach the publication(s).
+Publication
+In voluntary sustainability report
+Status
+Underway – previous year attached
+Attach the document
+2020_Global_Citizenship_Sustainability_Report.pdf
+Page/Section reference
+pp. 17-19
+Content elements
+Governance
+Strategy
+Emissions figures
+Emission targets
+Other metrics
+Comment
+GC&S Report
+Publication
+In voluntary sustainability report
+Status
+Underway – previous year attached
+Attach the document
+2020_Global_Citizenship_Sustainability_Standards_Supplement.pdf
+Page/Section reference
+pp. 5-7
+Content elements
+Emissions figures
+Other metrics
+Comment
+Standards Supplement
+C15. Signoff
+C-FI
+(C-FI) Use this field to provide any additional information or context that you feel is relevant to your organization's response. Please note that this field is optional
+and is not scored.
+C15.1
+(C15.1) Provide details for the person that has signed off (approved) your CDP climate change response.
+Job title
+Corresponding job category
+Row 1
+Ralph Lauren’s Chief Executive Officer (CEO) and Chief Sustainability Officer (CSO) have both signed off on this disclosure.
+Chief Executive Officer (CEO)
+SC. Supply chain module
+SC0.0
+(SC0.0) If you would like to do so, please provide a separate introduction to this module.
+SC0.1
+CDP
+Page 
+ of 43
+41
+
+
+================================================================================
+[PAGE 42 OF 43]
+================================================================================
+(SC0.1) What is your company’s annual revenue for the stated reporting period?
+Annual Revenue
+Row 1
+4400800000
+SC0.2
+(SC0.2) Do you have an ISIN for your company that you would be willing to share with CDP?
+No
+SC1.1
+(SC1.1) Allocate your emissions to your customers listed below according to the goods or services you have sold them in this reporting period.
+SC1.2
+(SC1.2) Where published information has been used in completing SC1.1, please provide a reference(s).
+SC1.3
+(SC1.3) What are the challenges in allocating emissions to different customers, and what would help you to overcome these challenges?
+Allocation challenges
+Please explain what would help you overcome these challenges
+Customer base is too large and diverse to accurately track emissions to the customer level
+Doing so would require we disclose business sensitive/proprietary information
+SC1.4
+(SC1.4) Do you plan to develop your capabilities to allocate emissions to your customers in the future?
+Yes
+SC1.4a
+(SC1.4a) Describe how you plan to develop your capabilities.
+Ralph Lauren has enhanced its carbon footprinting methodology significantly in the past several years. With our new tools and data for the footprint, we can develop methods
+for allocating emissions to our major customers, such as retailers, using sales volumes and data. We will then have the ability to share this information with customers upon
+request. 
+SC2.1
+(SC2.1) Please propose any mutually beneficial climate-related projects you could collaborate on with specific CDP Supply Chain members.
+SC2.2
+(SC2.2) Have requests or initiatives by CDP Supply Chain members prompted your organization to take organizational-level emissions reduction initiatives?
+No
+SC4.1
+(SC4.1) Are you providing product level data for your organization’s goods or services?
+No, I am not providing data
+Submit your response
+CDP
+Page 
+ of 43
+42
+
+
+================================================================================
+[PAGE 43 OF 43]
+================================================================================
+In which language are you submitting your response?
+English
+Please confirm how your response should be handled by CDP
+I am submitting to
+Public or Non-Public Submission
+Are you ready to submit the additional Supply Chain questions?
+I am submitting my response
+Investors
+Customers
+Public
+Yes, I will submit the Supply Chain questions now
+Please confirm below
+I have read and accept the applicable Terms
+CDP
+Page 
+ of 43
+43
+

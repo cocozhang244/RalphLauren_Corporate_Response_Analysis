@@ -1,0 +1,933 @@
+################################################################################
+RALPH LAUREN ESG ANALYSIS - EXTRACTED TEXT
+################################################################################
+Source File: Ralph Lauren Corporation_CDP-Water-Security-2021.pdf
+Year: 2021
+Document Type: CDP Water Security Disclosure
+Total Pages: 13
+Extraction Date: 2025-11-13 13:20:11
+################################################################################
+
+
+================================================================================
+[PAGE 1 OF 13]
+================================================================================
+Ralph Lauren Corporation - Water Security 2021
+W0. Introduction
+W0.1
+(W0.1) Give a general description of and introduction to your organization.
+Founded in 1967 by Mr. Ralph Lauren, we are a global leader in the design, marketing, and distribution of premium lifestyle products, including apparel, footwear,
+accessories, home furnishings, fragrances, and hospitality. Our long-standing reputation and distinctive image have been developed across an expanding number of products,
+brands, sales channels, and international markets. We believe that our global reach, breadth of product offerings, and multi-channel distribution are unique among luxury and
+apparel companies.
+Our global reach is extensive, as we sell directly to customers throughout the world via our 548 retail stores and 650 concession-based shop-within-shops, as well as through
+our own digital commerce sites and those of various third-party digital partners. Merchandise is also available through our wholesale distribution channels at approximately
+9,000 doors worldwide, the majority in specialty stores, as well as through the digital commerce sites of many of our wholesale customers. In addition to our directly-operated
+stores and shops, our international licensing partners operate 139 Ralph Lauren stores and shops, and 143 Club Monaco stores and shops.
+For more than 50 years, Ralph Lauren has inspired the dream of a better life through authenticity and timeless style, and we approach Citizenship & Sustainability with this in
+mind. This core purpose informs our every day at Ralph Lauren and extends across our entire business. It is inextricably linked to how we create a better future for our
+Company, the people we come into contact with and the world.
+Two years ago, we launched our renewed Citizenship & Sustainability strategy, Design the Change. Our strategy was built on the values and purpose that have defined our
+business for more than half a century, and it is based on our belief that together with our industry, we can deliver the change required to create a positive impact in society and
+a more sustainable future. 
+When we set out on our journey to Design the Change, we set ambitious goals and dedicated ourselves to integrating our strategy into every part of our business with a clear
+focus on three pillars: Creating Timeless Style, Protecting the Environment, and Championing Better Lives.
+Design the Change accelerates our work across Global Citizenship & Sustainability. Fundamentally, we believe that together with our industry, we can deliver the change
+required to create a positive impact in society and a more sustainable future. 
+Through Design the Change, we:
+· Create Timeless Style: We believe one of our greatest commitments to sustainability is designing products worn, loved and made to last. We are committed to responsible
+sourcing and using state-of-the-art materials that allow us to create our products more sustainably, without compromising the quality we’re known for.
+· Protect the Environment: We’re using partnerships and technology to reduce the environmental impact of our operations and supply chain across energy, emissions, water
+and waste. We believe collaboration is key to finding solutions, which is why we joined leading groups and support nonprofits dedicated to mitigating the environmental
+impacts of business.
+· Champion Better Lives: We aim to positively affect the lives of those touched by our business, including people in our communities, workforce and supply chain.
+Risks and opportunities described herein with the potential to have a ‘substantive financial or strategic impact on our business’ are not necessarily ‘material’ to investors as
+defined by the SEC.
+CDP system functionality only allows for 365 days to be reflected in the start and end date fields below. The results contained in this CDP survey are for Ralph Lauren’s fiscal
+year 2020, (March 29, 2020 through March 27, 2021,) which consisted of 363 days.
+W0.2
+(W0.2) State the start and end date of the year for which you are reporting data.
+Start date
+End date
+Reporting year
+April 1 2020
+March 31 2021
+CDP
+Page  of 13
+1
+
+
+================================================================================
+[PAGE 2 OF 13]
+================================================================================
+W0.3
+(W0.3) Select the countries/areas for which you will be supplying data.
+Australia
+Austria
+Bangladesh
+Belgium
+Brazil
+Canada
+China
+China, Hong Kong Special Administrative Region
+China, Macao Special Administrative Region
+Czechia
+Denmark
+France
+Germany
+Greece
+India
+Ireland
+Italy
+Japan
+Malaysia
+Monaco
+Netherlands
+Poland
+Portugal
+Republic of Korea
+Singapore
+Spain
+Sweden
+Switzerland
+Taiwan, Greater China
+Turkey
+United Kingdom of Great Britain and Northern Ireland
+United States of America
+Viet Nam
+W0.4
+(W0.4) Select the currency used for all financial information disclosed throughout your response.
+USD
+W0.5
+(W0.5) Select the option that best describes the reporting boundary for companies, entities, or groups for which water impacts on your business are being
+reported.
+Companies, entities or groups over which operational control is exercised
+W0.6
+(W0.6) Within this boundary, are there any geographies, facilities, water aspects, or other exclusions from your disclosure?
+No
+W1. Current state
+W1.1
+CDP
+Page  of 13
+2
+
+
+================================================================================
+[PAGE 3 OF 13]
+================================================================================
+(W1.1) Rate the importance (current and future) of water quality and water quantity to the success of your business.
+Direct use
+importance
+rating
+Indirect
+use
+importance
+rating
+Please explain
+Sufficient
+amounts
+of good
+quality
+freshwater
+available
+for use
+Not very
+important
+Important
+Direct use (current):
+We identified the water availability in our direct operations as ‘not very important’ given that use of freshwater in Ralph Lauren’s owned and operated facilities is only related to
+domestic purposes that do not represent high water intensity.
+Indirect use (current):The use of freshwater in our indirect operations is mainly associated with our raw material (e.g., cotton growing) and manufacturing processes (e.g., fabric
+and garment dyeing and washing).
+Future: Our approach to water stewardship includes actions that address overall use and quality, as well as protecting watersheds and ensuring access. We partner with the
+World Wildlife Fund (WWF) to advance our work in this area and set a comprehensive strategy for water stewardship and water use reductions in our value chain. We
+analyzed our value chain through the WWF Water Risk Filter to map key areas of water risk and develop a water footprint. The analysis also identified opportunities for
+watershed conservation, reduced water consumption and improved community access to water. Our goal to reduce water use by at least 20 percent by 2025 relates to
+manufacturing and processing in our supply chain and water use in our owned and operated facilities, compared to a FY20 baseline. In our direct operations, we will seek
+opportunities to decrease water use intensity in landscaping at our distribution centers and through application of low-flow fixtures in our distribution centers, offices, and
+stores. In our manufacturing supply chain, we focus on improving water use efficiency while also considering the shared basin-level water needs where our suppliers’ fabric
+mills, factories, and laundries are located. We take a contextual water target approach to better align our reduction goal with surrounding water challenges. In priority water-
+stressed locations, we are contributing to collective action projects with WWF, local partners and experts to scale water use assessments and reduction strategies.
+Sufficient
+amounts
+of
+recycled,
+brackish
+and/or
+produced
+water
+available
+for use
+Not very
+important
+Important
+Address current and future use
+We identified the water availability in our direct operations as ‘not very important’ given the use of water in Ralph Lauren’s own and operated facilities is only related to
+domestic purposes that do not represent high water intensity. The use of recycled water in our business operations is largely dependent upon the availability and adoption of
+water recycling technology in the leased, multi-tenant buildings that we largely occupy.
+Indirect use: 
+Our manufacturing supply chain uses recycled and process water in the production processes (i.e., dyeing and washing to decrease dependency on freshwater resources
+and costs). Due to the limited scale and application, the usage of recycled and process water is currently not high, as compared to freshwater. There are geographies where
+our products and materials are manufactured that have regulations related to the Zero Liquid Discharge (ZLD) or the use of recycled water. As such, the availability of water
+resources and our manufacturers’ ability to recycle and reuse process water is therefore identified as an important factor in our indirect use. 
+Future: 
+The use of recycled and process water in our owned and operated facilities is likely to remain constant. However, our use of recycled and process water could increase if
+there are improvements in the availability and adoption of water recycling technology in the leased, multi-tenant buildings that we largely occupy. We also foresee the more
+urgent need to promote water recycling in our manufacturing supply chain. As water recycling technologies mature in our sourcing regions, it has the potential to become a
+common practice in the manufacturing facilities globally, and thus help reduce our manufacturing dependency on freshwater resources.
+W2. Business impacts
+W2.1
+(W2.1) Has your organization experienced any detrimental water-related impacts?
+No
+W2.2
+(W2.2) In the reporting year, was your organization subject to any fines, enforcement orders, and/or other penalties for water-related regulatory violations?
+No
+W3. Procedures
+W3.3
+(W3.3) Does your organization undertake a water-related risk assessment?
+Yes, water-related risks are assessed
+W3.3a
+CDP
+Page  of 13
+3
+
+
+================================================================================
+[PAGE 4 OF 13]
+================================================================================
+(W3.3a) Select the options that best describe your procedures for identifying and assessing water-related risks.
+Direct operations
+Coverage
+Full
+Risk assessment procedure
+Water risks are assessed as part of other company-wide risk assessment system
+Frequency of assessment
+Annually
+How far into the future are risks considered?
+3 to 6 years
+Type of tools and methods used
+Tools on the market
+Tools and methods used
+WWF Water Risk Filter
+Comment
+We partner with the World Wildlife Fund (WWF) to advance our work in this area and set a comprehensive strategy for water stewardship and water use reductions in our
+value chain. We analyzed our direct operations through the WWF Water Risk Filter to map key areas of water risk and develop a water footprint. The Water Risk Filter’s risk
+assessment is based on the geographic location and operational characteristics of Ralph Lauren’s owned and operated facilities, which inform a site’s basin-related risks
+and operational-related risks.
+Supply chain
+Coverage
+Full
+Risk assessment procedure
+Water risks are assessed as part of other company-wide risk assessment system
+Frequency of assessment
+Annually
+How far into the future are risks considered?
+3 to 6 years
+Type of tools and methods used
+Tools on the market
+Databases
+Tools and methods used
+WWF Water Risk Filter
+Maplecroft Global Water Security Risk Index
+Comment
+We collaborate with the World Wildlife Fund (WWF) to advance our work in this area and set a comprehensive strategy for water stewardship and water use reductions in
+our value chain. We analyzed our value chain through the WWF Water Risk Filter to map key areas of water risk and develop a water footprint. The analysis also identified
+opportunities for watershed conservation, reduced water consumption, and improved community access to water. We also utilize the Maplecroft database to analyze water
+risks at the country level.
+Other stages of the value chain
+Coverage
+Full
+Risk assessment procedure
+Water risks are assessed as part of other company-wide risk assessment system
+Frequency of assessment
+Every two years
+How far into the future are risks considered?
+3 to 6 years
+Type of tools and methods used
+Tools on the market
+Tools and methods used
+WWF Water Risk Filter
+Comment
+We evaluated the impacts of cotton farming. We looked at our key cotton growing regions through the WWF Water Risk Filter to identify geographies with high risk for water
+scarcity. We also estimated total water use (rainfed and irrigated) in cotton agriculture. We also used our store locations to estimate water use and scarcity risks associated
+with product use, including customer water use for washing.
+W4. Risks and opportunities
+CDP
+Page  of 13
+4
+
+
+================================================================================
+[PAGE 5 OF 13]
+================================================================================
+W4.1
+(W4.1) Have you identified any inherent water-related risks with the potential to have a substantive financial or strategic impact on your business?
+Yes, only in our value chain beyond our direct operations
+W4.1b
+(W4.1b) What is the total number of facilities exposed to water risks with the potential to have a substantive financial or strategic impact on your business, and
+what proportion of your company-wide facilities does this represent?
+Total
+number of
+facilities
+exposed to
+water risk
+%
+company-
+wide
+facilities
+this
+represents
+Comment
+Row
+1
+0
+Less than
+1%
+Based on the CDP guidance, this question only considers the number of Ralph Lauren’s directly owned and operated facilities that are exposed to the water risks in our supply
+chain. As we identified inherent water-related risks within our value chain beyond our operations, we put in place mitigation efforts that focus on building our supply chain resilience
+to water-related risks. More information is provided in W4.3a. The impact of water risks in our supply chain to our directly owned and operated facilities is therefore deemed not
+significant, as reported in W1.1. Hence, we do not report on W3.1C for the same reason.
+W4.1c
+(W4.1c) By river basin, what is the number and proportion of facilities exposed to water risks that could have a substantive financial or strategic impact on your
+business, and what is the potential business impact associated with those facilities?
+W4.2b
+(W4.2b) Why does your organization not consider itself exposed to water risks in its direct operations with the potential to have a substantive financial or
+strategic impact?
+Primary reason
+Please explain
+Row
+1
+Risks exist, but no
+substantive impact
+anticipated
+Currently, we have not identified water risks in our direct operations with the potential to have substantive or strategic impact, considering the use of freshwater in Ralph Lauren’s own
+and operated facilities do not represent high water intensity. Within our own operations, Ralph Lauren stores and offices largely occupy leased, multi-tenant buildings, and mainly use
+water for drinking and sanitation purposes.
+W4.3
+(W4.3) Have you identified any water-related opportunities with the potential to have a substantive financial or strategic impact on your business?
+Yes, we have identified opportunities, and some/all are being realized
+W4.3a
+(W4.3a) Provide details of opportunities currently being realized that could have a substantive financial or strategic impact on your business.
+Type of opportunity
+Efficiency
+Primary water-related opportunity
+Improved water efficiency in operations
+Company-specific description & strategy to realize opportunity
+Ralph Lauren is working with product manufacturers to use more water-efficient production methods and to capture water data through the
+Sustainable Apparel Coalition Higg Index Facility Environment Module.
+Top fabric mills that were enrolled in the Apparel Impact Institute Mill/Impact program are progressing through an 18-month process to reduce their overall environmental
+impact, including water use. The most recent focus is on efficiency measures, including optimizing the recovery of steam condensate and cooling water, maximizing the
+reuse of manufacturing process water and advancing wastewater treatment systems. Ralph Lauren aims to rollout a Carbon Leadership Program (CLP) with Apparel Impact
+Institute (Aii) suppliers with high water intensity. This program will help facilities to identify priority implementation projects to reduce water and climate impact. 
+Estimated timeframe for realization
+1 to 3 years
+Magnitude of potential financial impact
+Low-medium
+Are you able to provide a potential financial impact figure?
+CDP
+Page  of 13
+5
+
+
+================================================================================
+[PAGE 6 OF 13]
+================================================================================
+No, we do not have this figure
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+<Not Applicable>
+Potential financial impact figure – maximum (currency)
+<Not Applicable>
+Explanation of financial impact
+Our main driver for investing in initiatives related to water efficiency improvements is to minimize our impact and reliance on freshwater resources. These initiatives may
+have the potential of significant cost savings and help minimize the risk of financial loss due to water-related issues for manufacturers that implement the efficiency
+measures. This enhances the business value and market competitiveness for our manufacturers, especially those with high water intensity, and are located in regions with
+high water scarcity risks.
+Type of opportunity
+Resilience
+Primary water-related opportunity
+Increased supply chain resilience
+Company-specific description & strategy to realize opportunity
+Ralph Lauren is working with product manufacturers to use more water-efficient production methods and to capture water data through the Sustainable Apparel Coalition
+Higg Index Facility Environment Module. Top fabric mills that were enrolled in the Apparel Impact Institute Mill/Impact program are progressing through an 18-month
+process to reduce their overall environmental impact, including water use. Ralph Lauren aims to rollout a Carbon Leadership program with Apparel Impact Institute (Aii)
+suppliers with high water intensity. This program will help facilities to identify priority implementation projects to reduce water and climate impact. These initiatives aim to
+help reduce our supply chain’s reliance on freshwater resources, hence increasing our supply chain resilience, considering some of our manufacturing facilities are located
+in regions with high water scarcity risk. For raw materials, we evaluated the impacts of cotton farming as part of our water stewardship strategy. Cotton accounts for more
+than 80 percent of our total material use. We looked at our key cotton growing regions through the WWF Water Risk Filter to identify geographies with high risk for water
+scarcity. We also estimated total water use (rainfed and irrigated) in cotton agriculture—the volume used is significant and our focus is on both reducing water use in cotton
+production and increasing effectiveness of water use. A key driver of this is the adoption of regenerative farming practices that make better use of rainfall and irrigated land.
+These practices increase soil fertility, water holding capacity and carbon capture; reduce erosion and pollution runoff; and create more resilience against floods and
+droughts.
+Estimated timeframe for realization
+1 to 3 years
+Magnitude of potential financial impact
+Low-medium
+Are you able to provide a potential financial impact figure?
+No, we do not have this figure
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+<Not Applicable>
+Potential financial impact figure – maximum (currency)
+<Not Applicable>
+Explanation of financial impact
+Our main driver for investing in initiatives related to water resilience and efficiency improvements is to minimize our impact and reliance on freshwater resources. These
+initiatives may have the potential of significant cost savings and help minimize the risk of financial loss due to water related issues for manufacturers that implement the
+efficiency measures. This helps enhance the business value and market competitiveness for our manufacturers, especially those with high water intensity, and are located
+in regions with high water scarcity risks.
+Type of opportunity
+Products and services
+Primary water-related opportunity
+New R&D opportunities
+Company-specific description & strategy to realize opportunity
+Ralph Lauren is committed to industry partnerships and investing in scalable, innovative technologies that enable further efficiencies in processes, material usage, water,
+and energy consumption. These initiatives help unlock opportunities in our value chain to reduce reliance in freshwater resources. This year we announced Color on
+Demand, a multi-phased system with a clear ambition to deliver the world’s first scalable zero wastewater cotton dyeing system. As part of the first phase of Color on
+Demand, Ralph Lauren optimized the use of ECOFAST™ Pure Sustainable Textile Treatment, a pre-treatment solution developed by Dow for cotton textiles. When used
+with existing dyeing equipment, ECOFAST™ Pure enables the use of up to 40% less water, 85% fewer chemicals, 90% less energy and a 60% reduction in carbon
+footprint compared to traditional cotton dyeing processes. We are integrating and scaling this innovative technique in our supply chain and will launch products using this
+technology later in 2021. By 2025, we aim to use the Color on Demand platform in more than 80% of our solid cotton products, leading to cost savings and water use
+reductions in upstream production. Ralph Lauren is also working toward more sustainable denim with an innovative processing technique to reduce the use of water-
+intensity chemicals and phase out the use of potassium permanganate in denim wash.
+Estimated timeframe for realization
+1 to 3 years
+Magnitude of potential financial impact
+Low-medium
+Are you able to provide a potential financial impact figure?
+No, we do not have this figure
+CDP
+Page  of 13
+6
+
+
+================================================================================
+[PAGE 7 OF 13]
+================================================================================
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+<Not Applicable>
+Potential financial impact figure – maximum (currency)
+<Not Applicable>
+Explanation of financial impact
+Our main driver for investing in initiatives related to industry partnerships and scalable, innovative technologies is to enable further efficiencies in processes, material usage,
+water, and energy consumption, which will help unlock opportunities in our value chain to reduce reliance in freshwater resources. These initiatives may have the potential
+of significant cost savings and help minimize the risk of financial loss due to water related issues for manufacturers that implement the innovative technologies. This helps
+enhance the business value and market competitiveness for our manufacturers, especially those with high water intensity, and are located in regions with high water
+scarcity risks.
+Type of opportunity
+Markets
+Primary water-related opportunity
+Increased brand value
+Company-specific description & strategy to realize opportunity
+Water stewardship is an important focus area in our industry. Ralph Lauren is committed to ensuring water is used efficiently in our value chain. We believe our work in
+water stewardship will enable our business and our supply chain to build resilience and reduce the impact of our business in water resource availability and climate change,
+thereby elevating our brand value. We are continuously pursuing opportunities to create products with less water through partnerships with our supply chain partners and
+implementation of innovative technologies. We are committed to communicating our water stewardship efforts across our stakeholders.
+Estimated timeframe for realization
+1 to 3 years
+Magnitude of potential financial impact
+Low-medium
+Are you able to provide a potential financial impact figure?
+No, we do not have this figure
+Potential financial impact figure (currency)
+<Not Applicable>
+Potential financial impact figure – minimum (currency)
+<Not Applicable>
+Potential financial impact figure – maximum (currency)
+<Not Applicable>
+Explanation of financial impact
+Our main driver for investing in water stewardship initiatives is to enable our business and our supply chain to build resilience and reduce the impact of our business in
+water resource availability and climate change, thereby elevating our brand value. These initiatives may have the potential of cost savings and help minimize the risk of
+financial loss due to water related issues for manufacturers that implement the innovative technologies. This helps enhance the business value and market competitiveness
+for our manufacturers, especially those with high water intensity, and are located in regions with high water scarcity risks.
+W6. Governance
+W6.1
+(W6.1) Does your organization have a water policy?
+Yes, we have a documented water policy that is publicly available
+W6.1a
+CDP
+Page  of 13
+7
+
+
+================================================================================
+[PAGE 8 OF 13]
+================================================================================
+(W6.1a) Select the options that best describe the scope and content of your water policy.
+Scope
+Content
+Please explain
+Row
+1
+Company-
+wide
+Description of
+business
+dependency on
+water
+Description of
+business impact
+on water
+Reference to
+international
+standards and
+widely-recognized
+water initiatives
+Company water
+targets and goals
+Commitment to
+align with public
+policy initiatives,
+such as the SDGs
+Commitments
+beyond regulatory
+compliance
+Commitment to
+water-related
+innovation
+Commitment to
+stakeholder
+awareness and
+education
+Commitment to
+water stewardship
+and/or collective
+action
+Commitment to
+safely managed
+Water, Sanitation
+and Hygiene
+(WASH) in local
+communities
+Acknowledgement
+of the human right
+to water and
+sanitation
+Ralph Lauren takes a holistic approach to water stewardship, covering our value chain and beyond. We are committed to reducing water consumption across our value chain
+and to safeguarding and preserving water resources in our communities. Our water sustainability strategy is aligned with the Paris Climate Agreement, the UN Global Compact
+and SDG6. Our goal is to achieve at least a 20% reduction in total water use across our operations and value chain by 2025. We collaborate with the World Wildlife Fund
+(WWF) to advance our work in this area and set a comprehensive strategy for water stewardship and water use reductions in our value chain. We are taking a contextual water
+target approach to better align our reduction goals with the water challenges in our value chain. In priority water-stressed locations, we are contributing to collective action
+programs with WWF, local partners, and experts to scale water use assessments and reduction strategies. We are also working to eliminate the use of hazardous chemicals in
+our production by 2025. We monitor our suppliers’ conformance to the ZDHC MRSL and require our suppliers to conduct wastewater tests aligned with ZDHC Wastewater
+Guidelines to ensure no hazardous chemical is discharged through wastewater. We are also committed to developing water-related innovation through the Color on Demand
+technology platform, which optimizes the use of ECOFAST™ Pure-a pre-treatment solution for cotton garments, developed by Dow. When used with existing dyeing equipment,
+ECOFAST™ Pure enables the use of up to 40 percent less water compared to traditional cotton dyeing processes. Our water stewardship strategy also supports watershed
+health through conservation interventions, including wetland restoration, stakeholder engagement, and the adoption of preferable land use management practices. We are
+investing in a number of water conservation programs in the coming year, as well as furthering our partnerships with organizations focused on community access and WASH
+(Water, Sanitation and Hygiene) solutions, based on local needs. Through our continued partnership with GiveMeTap, we provide funding to water projects to provide drinking
+water and install water pumps for the areas in need. In FY21, the Ralph Lauren Corporate Foundation expanded its partnership with DigDeep, a nonprofit focused on increasing
+access to water and sanitation throughout the U.S.
+W6.2
+(W6.2) Is there board level oversight of water-related issues within your organization?
+Yes
+W6.3
+(W6.3) Provide the highest management-level position(s) or committee(s) with responsibility for water-related issues (do not include the names of individuals).
+Name of the position(s) and/or committee(s)
+Chief Executive Officer (CEO)
+Responsibility
+Both assessing and managing water-related risks and opportunities
+Frequency of reporting to the board on water-related issues
+Quarterly
+Please explain
+Our CEO, who also holds the title of President, and is a member of our Board of Directors (the “Board”), is responsible for the daily management of our company. The formal
+governance of Global Citizenship & Sustainability, including water-related issues, sits with the Board. The full Board receives a report on citizenship and sustainability
+progress at least annually, including water-related issues, and reviews the Company’s annual Global Citizenship & Sustainability Report. Our CEO reviews and approves
+significant water strategy and communications decisions, including our target to achieve at least a 20% reduction in total water use across our operations and value chain by
+2025. Our CEO also serves on the Steering Committee of the G7 Fashion Pact, helping the organization set priorities, ensure appropriate allocation of resources, and
+advocate for increased sustainability standards and expectations within our industry across all three pillars: climate, biodiversity, and oceans.
+Name of the position(s) and/or committee(s)
+President
+Responsibility
+Both assessing and managing water-related risks and opportunities
+Frequency of reporting to the board on water-related issues
+Quarterly
+Please explain
+Our CEO, who also holds the title of President, and is a member of our Board of Directors (the Board), is responsible for the daily management of our company. The formal
+governance of Global Citizenship & Sustainability, including water-related issues, sits with the Board. The full Board receives a report on citizenship and sustainability
+progress at least annually, including water-related issues, and reviews the Company’s annual Global Citizenship & Sustainability Report. Our CEO reviews and approves
+CDP
+Page  of 13
+8
+
+
+================================================================================
+[PAGE 9 OF 13]
+================================================================================
+significant water strategy and communications decisions, including our target to achieve at least a 20% reduction in total water use across our operations and value chain by
+2025. Our CEO also serves on the Steering Committee of the G7 Fashion Pact, helping the organization set priorities, ensure appropriate allocation of resources, and
+advocate for increased sustainability standards and expectations within our industry across all three pillars: climate, biodiversity, and oceans.
+Name of the position(s) and/or committee(s)
+Chief Financial Officer (CFO)
+Responsibility
+Both assessing and managing water-related risks and opportunities
+Frequency of reporting to the board on water-related issues
+Quarterly
+Please explain
+Our CFO, who also holds the title of COO, is responsible for the daily management of our company’s finances. Our CFO reviews and approves significant water strategy
+and communications decisions.
+Name of the position(s) and/or committee(s)
+Chief Operating Officer (COO)
+Responsibility
+Both assessing and managing water-related risks and opportunities
+Frequency of reporting to the board on water-related issues
+Quarterly
+Please explain
+Our CFO, who also holds the title of COO, is responsible for the daily management of our company’s finances. Our CFO reviews and approves significant water strategy
+and communications decisions.
+Name of the position(s) and/or committee(s)
+Chief Sustainability Officer (CSO)
+Responsibility
+Both assessing and managing water-related risks and opportunities
+Frequency of reporting to the board on water-related issues
+More frequently than quarterly
+Please explain
+Our Chief Product and Sustainability Officer (CPSO) is responsible for day-to-day management of water-related issues and our broader Global Citizenship & Sustainability
+(GC&S) strategy. With dual responsibility for sustainability and product, our CPSO represents a direct line between the development and production of our product, and the
+water impacts of our product and operations. Our GC&S Steering Committee is chaired by our CPSO and includes cross-functional leaders of the Company. The committee
+meets monthly to prioritize approach and allocate resources. Our CPSO also has direct oversight of our corporate sustainability team that drives strategy, engagement, and
+external communications related to water. Our CPSO serves on the Operating Committee of the G7 Fashion Pact, driving the priorities set by the Steering Committee,
+establishing working groups, and supporting outreach to external partners across all three pillars: climate, biodiversity, and oceans.
+Name of the position(s) and/or committee(s)
+Other C-Suite Officer, please specify (Chief Innovation Officer)
+Responsibility
+Both assessing and managing water-related risks and opportunities
+Frequency of reporting to the board on water-related issues
+More frequently than quarterly
+Please explain
+To further drive Company engagement, our Global Citizenship & Sustainability Steering Committee meets monthly to prioritize and resource our approach for water-related
+issues and other sustainability topics. The steering committee is composed of leaders from across the Company and is responsible for defining, tracking, and championing
+this work with the teams. It is chaired by our Chief Product and Sustainability Officer, who also oversees our sustainability program. The Steering Committee also includes
+our Chief Innovation Officer, Chief People Officer, and Chief Communications Officer.
+Name of the position(s) and/or committee(s)
+Other C-Suite Officer, please specify (Chief People Officer)
+Responsibility
+Both assessing and managing water-related risks and opportunities
+Frequency of reporting to the board on water-related issues
+More frequently than quarterly
+Please explain
+To further drive Company engagement, our Global Citizenship & Sustainability Steering Committee meets monthly to prioritize and resource our approach for water-related
+issues and other sustainability topics. The steering committee is composed of leaders from across the Company and is responsible for defining, tracking, and championing
+this work with the teams. It is chaired by our Chief Product and Sustainability Officer, who also oversees our sustainability program. The Steering Committee also includes
+our Chief Innovation Officer, Chief People Officer, and Chief Communications Officer.
+Name of the position(s) and/or committee(s)
+Other committee, please specify (Global Citizenship & Sustainability Steering Committee )
+Responsibility
+Both assessing and managing water-related risks and opportunities
+Frequency of reporting to the board on water-related issues
+More frequently than quarterly
+CDP
+Page  of 13
+9
+
+
+================================================================================
+[PAGE 10 OF 13]
+================================================================================
+Please explain
+To further drive Company engagement, our Global Citizenship & Sustainability Steering Committee meets monthly to prioritize and resource our approach for water-related
+issues and other sustainability topics. The steering committee is composed of leaders from across the Company and is responsible for defining, tracking, and championing
+this work with the teams. It is chaired by our Chief Product and Sustainability Officer, who also oversees our sustainability program. The Steering Committee also includes
+our Chief Innovation Officer, Chief People Officer, and Chief Communications Officer.
+Name of the position(s) and/or committee(s)
+Other committee, please specify (Nominating, Governance, Citizenship and Sustainability Committee, Audit Committee, Finance Committee, Compensation Committee)
+Responsibility
+Both assessing and managing water-related risks and opportunities
+Frequency of reporting to the board on water-related issues
+Quarterly
+Please explain
+As a public company, RLC is governed by a Board of Directors, consisting of four Committees: the Audit Committee, the Nominating, Governance, Citizenship and
+Sustainability Committee (the “Nominating Committee”), the Compensation and Organizational Development Committee, and the Finance Committee. The Nominating
+Committee oversees our environmental, social and governance (ESG) risks and opportunities. The Committee receives quarterly updates; reviews initiatives, goals, and
+policies; and makes recommendations to the Board on ESG matters. The Audit Committee oversees the enterprise risk management process, including ESG risk. The
+Finance Committee and the Nominating Committee advise on the incorporation of goals into our corporate strategy and engagement of business initiatives that influence
+corporate citizenship and sustainability. The Compensation Committee considers performance against Company ESG key performance indicators in their compensation
+decisions.
+W6.4
+(W6.4) Do you provide incentives to C-suite employees or board members for the management of water-related issues?
+Provide incentives for management
+of water-related issues
+Comment
+Row
+1
+Yes
+Our compensation structure is linked to progress on a number of key performance indicators. These indicators include progress towards our water target of achieving
+at least a 20 percent reduction in total water use across our operations and value chain by 2025.
+W7. Business strategy
+W7.1
+(W7.1) Are water-related issues integrated into any aspects of your long-term strategic business plan, and if so how?
+Are water-
+related
+issues
+integrated?
+Long-
+term
+time
+horizon
+(years)
+Please explain
+Long-
+term
+business
+objectives
+Yes, water-
+related
+issues are
+integrated
+5-10
+Ralph Lauren’s Global Citizenship & Sustainability governance is integrated across all levels of our organization. Our Board of Directors (the Board) is responsible for formal
+governance of Global Citizenship & Sustainability. The Nominating, Governance, Citizenship and Sustainability Committee of the Board oversees our environmental, social and
+governance (ESG) risks and opportunities; receives quarterly updates; reviews initiatives, goals, and policies; and makes recommendations to the Board on ESG matters. We
+regularly conduct materiality assessments to help identify and prioritize the citizenship and sustainability issues, risks, and opportunities that matter most to our business and
+stakeholders. Within our governance structure, we have created the Water Stewardship Working Group, dedicated to driving our water stewardship commitment and KPIs. This
+working group reports to our company-wide Global Citizenship & Sustainability Steering Committee. 
+In terms of long-term business objectives, we have set our water-related commitment across our raw material sourcing, supply chain, and direct operations. Our goal is to achieve
+at least a 20 percent reduction in total water use across our operations and value chain compared to a FY20 baseline by 2025. In our strategic business growth plan, we fully
+integrate citizenship and sustainability into our business principles and use sustainability KPIs as one of the metrics for measuring the success of our long-term business
+objectives.
+Strategy
+for
+achieving
+long-term
+objectives
+Yes, water-
+related
+issues are
+integrated
+5-10
+Building resilience across our value chain is critical for our long-term business objectives. We set medium- to long-term goals for climate and water, which we believe align our
+trajectory towards our long-term objectives. We use the WWF Water Risk Filter to identify our water risks. We are taking the contextual water target approach, and investing in
+collective action projects with WWF and local partners to scale water conservation efforts. We monitor our supply chain water performance through the Higg FEM and collaborate
+with the Apparel Impact Institute (Aii) to identify opportunities for efﬁciency with regard to energy, chemical, and water use. We also adopted the ZDHC Manufacturing Restricted
+Substances List (MRSL), and collaborate with industry to eliminate the use and discharge of hazardous chemicals across the apparel supply chain. Our raw material water strategy
+includes accelerating the adoption of regenerative cotton farming practices, and working towards achieving 100% sustainably sourced cotton by 2025. We are also committed to
+investing in scalable, innovative technologies that enable further efficiencies in processes, materials, water, and energy consumption. These innovative technologies help unlock
+opportunities in our value chain to reduce reliance in freshwater resources. This year we announced Color on Demand, a multi-phased system with a clear ambition to deliver the
+world’s first scalable zero wastewater cotton dyeing system.
+Financial
+planning
+Yes, water-
+related
+issues are
+integrated
+5-10
+The Finance and the Nominating, Governance & Sustainability Committees of our Board of Directors advise on the incorporation of goals into our corporate strategy and business
+initiatives that influence corporate citizenship and sustainability. As part of our financial planning, we have a portion of our budget dedicated to water-related programs. We
+financed and collaborated with Better Cotton Initiative (BCI), WWF Water Risk Filter, Apparel Impact Institute (Aii), and organizations that focused on watershed health and
+community WASH (Water, Sanitation and Hygiene) solutions. As a Better Cotton Initiative member, we support its mission to address the environmental, social, and economic
+issues associated with growing cotton. Through our work with WWF, we helped to create healthier eco-systems and addressed issues at basin-level. In partnership with Aii, our
+suppliers identified the opportunities to reduce energy, chemical, and water use. We are investing in a number of water conservation programs in the coming year, as well as
+furthering our partnerships with organizations focused on community access and WASH (Water, Sanitation and Hygiene) solutions based on local needs.
+W8. Targets
+CDP
+Page 
+ of 13
+10
+
+
+================================================================================
+[PAGE 11 OF 13]
+================================================================================
+W8.1
+(W8.1) Describe your approach to setting and monitoring water-related targets and/or goals.
+Levels
+for
+targets
+and/or
+goals
+Monitoring
+at
+corporate
+level
+Approach to setting and monitoring targets and/or goals
+Row
+1
+Company-
+wide
+targets
+and goals
+Basin
+specific
+targets
+and/or
+goals
+Targets are
+monitored
+at the
+corporate
+level
+Goals are
+monitored
+at the
+corporate
+level
+Ralph Lauren’s Global Citizenship & Sustainability governance, targets, and goals are integrated across all levels of our organization. We regularly conduct materiality assessments to
+help identify and prioritize the citizenship and sustainability issues, risks, and opportunities that matter most to our business and stakeholders. 
+We commit to reducing water consumption across our value chain and to safeguarding and preserving water resources in our communities. To achieve this commitment, our water
+stewardship strategy consists of 3 pillars: 1) CONSERVATION - Safeguard and preserve water resources where we operate through contextual water targets and collective action
+program implementation in priority geographies with high water stress. 2) COTTON - Sustainably-source cotton and accelerate the adoption of regenerative farming practices. 3)
+COMMUNITY - Partner with organizations focused on watershed health and community WASH (Water, Sanitation and Hygiene) solutions. In addition to our water stewardship
+strategy, we also commit to aim to eliminate the use of hazardous chemicals in our supply chain as part of our sustainable chemicals management work to minimize the impact of
+water and environmental pollution in our manufacturing geographies. Each of the commitments is incorporated across our business operations through each relevant department’s
+goals and KPIs, and tracked on a quarterly basis at minimum.
+Under our governance structure, we have created a cross-functional Water Stewardship Working Group, dedicated to driving our water stewardship commitment and KPIs. They
+provide a progress report to our Global Citizenship & Sustainability Senior Steering Committee on a quarterly basis. Our Global Citizenship & Sustainability Senior Steering Committee
+is chaired by our Chief Product and Sustainability Officer and includes leaders from across the Company. The Steering Committee meets monthly to review progress, prioritize our
+approach, and allocate resources. Our Nominating, Governance & Sustainability committee of our Board of Directors has oversight of companywide environmental, social, and
+governance (ESG) policies and initiatives. The committee receives quarterly updates; reviews initiatives, goals, and policies; and makes recommendations to the Board on ESG
+matters. Our Board of Directors (the Board) is responsible for formal governance of Global Citizenship & Sustainability. The full Board receives a report on citizenship and
+sustainability progress at least once annually, including water-related issues, and reviews the Company’s annual Global Citizenship & Sustainability Report.
+W8.1a
+(W8.1a) Provide details of your water targets that are monitored at the corporate level, and the progress made.
+Target reference number
+Target 1
+Category of target
+Water consumption
+Level
+Company-wide
+Primary motivation
+Water stewardship
+Description of target
+Achieve at least a 20 percent reduction in total water use across our operations and value chain by 2025.
+Quantitative metric
+% reduction in total water consumption
+Baseline year
+2019
+Start year
+2019
+Target year
+2025
+% of target achieved
+34
+Please explain
+We are taking a contextual water target approach to better align our reduction goal with surrounding water challenges. In priority water-stressed locations, we are
+contributing to collective action projects with WWF and local partnerships and experts to scale water use assessments and reduction strategies. By 2025, we aim to use the
+Color on Demand platform in more than 80% of our solid cotton products. We remain committed to implementing our water stewardship action plan for achieving and
+maintaining a 20 percent reduction in our water footprint (manufacturing and processing in our supply chain and water use in our owned and operated facilities) by 2025. In
+FY21, our footprint was 9,661,765 m3 — a 34 percent reduction compared to FY20 baseline of 14,870,315 m3. This decrease was primarily driven by COVID-19-related
+business impacts, such as production volumes decreasing by over 30 percent compared to FY20, which contributes significantly to our supply chain water consumption.
+Target reference number
+Target 2
+Category of target
+Product water intensity
+Level
+Company-wide
+Primary motivation
+Reduced environmental impact
+Description of target
+100 percent sustainably sourced cotton by 2025.
+Quantitative metric
+Other, please specify (% of sustainably sourced raw material)
+Baseline year
+CDP
+Page 
+ of 13
+11
+
+
+================================================================================
+[PAGE 12 OF 13]
+================================================================================
+2019
+Start year
+2019
+Target year
+2025
+% of target achieved
+42
+Please explain
+Cotton accounts for more than 80 percent of our total material use. We are committed to sourcing cotton in a manner that prioritizes soil health, utilizes water efficiently,
+minimizes chemical inputs, and supports workers’ rights and farmers’ profitability, while reducing our product water intensity. Aligned with our FY21 goal, we continue to
+transition core products such as polo shirts, knits, chinos, and shirts to sustainably sourced cotton. In the future, we aim to adopt regenerative farming practices that make
+better use of rainfall and irrigated land. These practices increase soil fertility, water holding capacity, and carbon capture; reduce erosion and pollution runoff; and create
+more resilience against floods and droughts.
+Target reference number
+Target 3
+Category of target
+Water discharge
+Level
+Company-wide
+Primary motivation
+Reduced environmental impact
+Description of target
+Eliminate the use of hazardous chemicals in our supply chain by 2025.
+Quantitative metric
+Other, please specify (% proportion of wastewater that is safely treated)
+Baseline year
+2019
+Start year
+2019
+Target year
+2025
+% of target achieved
+31
+Please explain
+Through our partnership with the ZDHC Programme, we collaborate with peers and experts to aim to eliminate the use and discharge of hazardous chemicals across our
+textile and leather supply chain. We require our manufacturers’ facilities with wet processing to provide us with transparency on their chemical usage and MRSL
+compliance on monthly basis, and to test their wastewater against ZDHC wastewater guidelines and share the results with us through the ZDHC Gateway portal on an
+annual basis at minimum. This helps us monitor our suppliers’ wastewater discharge quality and address issues in a timely manner in order to achieve our goal of
+eliminating the use of hazardous chemicals in our supply chain by 2025.
+W8.1b
+CDP
+Page 
+ of 13
+12
+
+
+================================================================================
+[PAGE 13 OF 13]
+================================================================================
+(W8.1b) Provide details of your water goal(s) that are monitored at the corporate level and the progress made.
+Goal
+Providing access to safely managed Water, Sanitation and Hygiene (WASH) in local communities
+Level
+Company-wide
+Motivation
+Water stewardship
+Description of goal
+Worldwide, one in three people do not have access to safe drinking water. To help end this disparity, we support organizations working to provide clean water sources for
+those in need. We are investing in a number of water conservation programs in the coming year, as well as furthering our partnerships with organizations focused on
+community access and WASH (Water, Sanitation and hygiene) solutions based on local needs.
+Baseline year
+2019
+Start year
+2019
+End year
+2025
+Progress
+We monitor our progress through the number of initiatives and outreach in our WASH partnerships and solutions. Through our continued partnership with GiveMeTap in
+FY21, we helped fund drinking water projects in rural Africa. We also donate at least $2
+for every Polo-branded bottle sold on RalphLauren.com to help fund the installation of water pumps across rural Ghana. To date, the program has provided 18 water pumps
+in the Upper West region of Ghana and benefited more than 18,000 people. In FY21, the Foundation expanded its partnership with DigDeep, a non-profit focused on
+increasing access to water and sanitation throughout the U.S. Our three-year collaboration will support the COVID-19 emergency water delivery program for Navajo
+families, helping to ensure safe water access for 1,500 households and to provide 11 families with in-home water systems in 2022.
+W10. Sign off
+W-FI
+(W-FI) Use this field to provide any additional information or context that you feel is relevant to your organization's response. Please note that this field is optional
+and is not scored.
+W10.1
+(W10.1) Provide details for the person that has signed off (approved) your CDP water response.
+Job title
+Corresponding job category
+Row 1
+Ralph Lauren’s Chief Executive Officer (CEO) and Chief Sustainability Officer (CSO) have both signed off on this disclosure.
+Chief Executive Officer (CEO)
+Submit your response
+In which language are you submitting your response?
+English
+Please confirm how your response should be handled by CDP
+I am submitting to
+Public or Non-Public Submission
+I am submitting my response
+Investors
+Public
+Please confirm below
+I have read and accept the applicable Terms
+CDP
+Page 
+ of 13
+13
+

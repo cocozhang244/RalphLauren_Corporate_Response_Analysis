@@ -1,0 +1,53 @@
+================================================================================
+RALPH LAUREN ESG CORPORATE RESPONSE ANALYSIS
+QUANTITATIVE ANALYSIS SUMMARY REPORT
+================================================================================
+
+Report Generated: 2025-11-13 13:22:28
+
+KEY METRICS:
+--------------------------------------------------------------------------------
+Total Target/Goal Mentions Extracted: 2132
+Total Language Patterns Identified: 5447
+Total Initiative References: 6796
+Total Impact Area Mentions: 7722
+
+TARGETS & GOALS - YEAR-OVER-YEAR:
+--------------------------------------------------------------------------------
+  2020: 270 mentions
+  2021: 413 mentions
+  2022: 543 mentions
+  2023: 651 mentions
+  2024: 205 mentions
+  2025: 50 mentions
+
+COMMITMENT LANGUAGE STRENGTH:
+--------------------------------------------------------------------------------
+  Weak/Hedging: 4521 (83.0%)
+  Moderate: 557 (10.2%)
+  Strong: 369 (6.8%)
+
+TOP 10 IMPACT AREAS BY MENTION FREQUENCY:
+--------------------------------------------------------------------------------
+  1. Climate/Carbon: 5426 mentions
+  2. Supply Chain: 3852 mentions
+  3. Governance: 3449 mentions
+  4. Water: 2829 mentions
+  5. Energy: 2235 mentions
+  6. Waste/Circular Economy: 1534 mentions
+  7. Diversity/Equity: 1332 mentions
+  8. Human Rights/Labor: 1122 mentions
+  9. Biodiversity: 700 mentions
+  10. Materials: 151 mentions
+
+TARGETS BY DOCUMENT TYPE:
+--------------------------------------------------------------------------------
+  CDP Climate Change Disclosure: 761
+  Global Citizenship & Sustainability Report: 676
+  CDP Water Security Disclosure: 367
+  10-K Annual Report: 321
+  Carbon Footprint Verification/Assurance: 7
+
+================================================================================
+END OF SUMMARY REPORT
+================================================================================
